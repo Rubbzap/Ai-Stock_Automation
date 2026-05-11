@@ -31,6 +31,37 @@
 | DRAM | 52.80 | 53.88 | +6.25 (+13.43%) |
 | AMD | 455.19 | 461.20 | +46.73 (+11.44%) |
 
+## Charts
+
+### Top Movers - Regular Session
+
+```mermaid
+xychart-beta
+    title "Top movers by latest regular-session change (%)"
+    x-axis ["RKLB", "EOSE", "SNDK", "MU", "ASTS", "INTC", "DRAM", "AMD", "IREN", "TSLA"]
+    y-axis "Change %" 0 --> 36
+    bar [34.22, 25.94, 16.60, 15.49, 14.84, 13.96, 13.43, 11.44, 7.65, 4.02]
+```
+
+### After-Hours Move From Close
+
+```mermaid
+xychart-beta
+    title "After-hours move from regular close (%)"
+    x-axis ["DRAM", "EOSE", "MU", "AMD", "INTC", "RKLB", "AAPL", "QQQ", "SPY", "NVDA", "TSLA", "ASTS", "GOOG", "IREN"]
+    y-axis "After-hours %" -1 --> 3
+    bar [2.05, 2.00, 1.41, 1.32, 0.86, 0.52, 0.18, 0.12, 0.03, -0.07, -0.09, -0.25, -0.31, -0.72]
+```
+
+### Quick Heatmap
+
+| Group | Strongest names | Read-through |
+|---|---|---|
+| Space / high beta | RKLB, ASTS | Momentum very strong, but event/earnings risk is high |
+| Memory / semis | SNDK, MU, DRAM, INTC, AMD | Main market leadership; after-hours still mostly positive |
+| Mega-cap tech | AAPL, NVDA, GOOG, TSLA | Positive but less explosive than smaller/high-beta names |
+| ETFs | QQQ, SPY, JEPQ | Broad market confirms tech-led risk-on move |
+
 ## Short News
 
 - ภาพรวมตลาด: Reuters รายงานผ่าน MarketScreener ว่า S&P 500 และ Nasdaq แตะระดับสูงใหม่จากแรงซื้อเทคโนโลยีและรายงานจ้างงานที่แข็งแรง ขณะที่ตลาดมองว่า Fed ยังมีแนวโน้มคงดอกเบี้ยต่อ

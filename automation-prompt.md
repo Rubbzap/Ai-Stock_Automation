@@ -11,6 +11,8 @@ Write the report to `reports/YYYY-MM-DD-stock-brief.md`, using the local date fo
 - Title with date
 - Market snapshot
 - Watchlist price table with close and overnight/extended-hours price
+- Markdown/Mermaid charts that make the report easy to scan, including a top movers chart and an after-hours/overnight move chart when enough price data is available
+- A compact heatmap or grouping table for themes/sectors when useful
 - Short bullet summary of important news
 - Source links
 - Data caveats where needed
