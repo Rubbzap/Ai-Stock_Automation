@@ -4,7 +4,7 @@
 
 ```text
 INTC
-AGVO
+AVGO
 RKLB
 AAPL
 NVDA
@@ -20,5 +20,5 @@ EOSE
 GOOG
 DRAM
 AMD
+ASML
 ```
-

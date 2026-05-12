@@ -1,0 +1,31 @@
+name: Daily Stock Brief
+
+on:
+  schedule:
+    # 09:00 Asia/Bangkok = 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate stock brief
+        run: python scripts/generate_stock_brief.py
+
+      - name: Commit and push report
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Add stock brief
+          file_pattern: reports/*.md
