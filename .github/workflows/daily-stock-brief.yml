@@ -24,8 +24,11 @@ jobs:
       - name: Generate stock brief
         run: python scripts/generate_stock_brief.py
 
+      - name: Export reports CSV
+        run: python scripts/export_reports_csv.py
+
       - name: Commit and push report
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Add stock brief
-          file_pattern: reports/*.md
+          file_pattern: reports/*.md data/*.csv
