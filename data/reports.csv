@@ -88,21 +88,21 @@ report_date,ticker,name,regular_close,regular_note,extended_price,extended_note,
 2026-05-15,DRAM,Roundhill Memory ETF,53.79,53.79 USD,53.78,53.78 USD,-1.38,-0.01,2026-05-14 19:59 EDT,https://finance.yahoo.com/quote/DRAM/,2026-05-15-stock-brief.md
 2026-05-15,AMD,"Advanced Micro Devices, Inc.",449.70,449.70 USD,447.50,447.50 USD,0.94,-0.49,2026-05-14 19:59 EDT,https://finance.yahoo.com/quote/AMD/,2026-05-15-stock-brief.md
 2026-05-15,ASML,ASML Holding N.V. - New York Re,1584.51,"1,584.51 USD",1583.50,"1,583.50 USD",0.19,-0.06,2026-05-14 19:59 EDT,https://finance.yahoo.com/quote/ASML/,2026-05-15-stock-brief.md
-2026-05-16,INTC,,108.77,108.77 (15 พ.ค.),106.91,"106.91 (-1.71%, AH)",,-1.71,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,AVGO,,425.19,425.19 (15 พ.ค.),423.57,"423.57 (AH, 7:59 PM ET)",,,,https://finviz.com/quote?t=AVGO; https://www.benzinga.com/quote/AVGO/,2026-05-16-stock-brief.md
-2026-05-16,RKLB,,,ไม่พบราคาปิด 15 พ.ค. จากแหล่งที่เข้าถึงได้; snapshot ล่าสุดราว 125.84 intraday 13 พ.ค.,,ไม่มีข้อมูล extended ที่เชื่อถือได้,,,,https://stockanalysis.com/stocks/rklb/forecast/,2026-05-16-stock-brief.md
-2026-05-16,AAPL,,300.23,300.23 (15 พ.ค.),299.85,"299.85 (-0.13%, AH)",,-0.13,,https://www.financecharts.com/stocks/AAPL/summary/price; https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,NVDA,,225.32,225.32 (15 พ.ค.),224.41,"224.41 (-0.40%, AH)",,-0.40,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,TSLA,,422.24,422.24 (15 พ.ค.),418.51,"418.51 (-0.88%, AH)",,-0.88,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,SNDK,,1407.61,"1,407.61 (15 พ.ค.)",,ไม่มีข้อมูล extended แยกชัดเจน,,,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,QQQ,,708.93,708.93 (คำนวณจาก AH change),706.49,"706.49 (-0.34%, AH)",,-0.34,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,SPY,,739.17,739.17 (คำนวณจาก AH change),737.35,"737.35 (-0.25%, AH)",,-0.25,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,JEPQ,,59.89,59.89 (13 พ.ค.),59.90,"59.90 (+0.02%, AH 13 พ.ค.)",,0.02,,https://stockanalysis.com/etf/jepq/history/,2026-05-16-stock-brief.md
-2026-05-16,ASTS,,76.12,76.12 (intraday 13 พ.ค.; previous close 72.96),,ไม่มีข้อมูล extended ที่อัปเดต,,,,https://stockanalysis.com/stocks/asts/,2026-05-16-stock-brief.md
-2026-05-16,MU,,724.66,724.66 (15 พ.ค.),715.89,"715.89 (-1.21%, AH)",,-1.21,,https://www.investing.com/equities/after-hours,2026-05-16-stock-brief.md
-2026-05-16,IREN,,56.16,56.16 (intraday 13 พ.ค.; previous close 56.56),,ไม่มีข้อมูล extended ที่อัปเดต,,,,https://stockanalysis.com/stocks/iren/,2026-05-16-stock-brief.md
-2026-05-16,EOSE,,8.17,8.17 (14 พ.ค.),,ไม่มีข้อมูล extended ที่อัปเดต,,,,https://finviz.com/quote?t=EOSE,2026-05-16-stock-brief.md
-2026-05-16,GOOG,,395.07,395.07 previous close; แหล่ง 15 พ.ค. ที่เข้าถึงได้ไม่แสดงราคาปิดเต็ม,,ไม่มีข้อมูล extended ที่อัปเดต,,,,https://finance.yahoo.com/quote/GOOG/; https://www.benzinga.com/quote/GOOG/,2026-05-16-stock-brief.md
-2026-05-16,DRAM,,51.08,51.08 (15 พ.ค.),50.85,"50.85 (-0.49%, AH)",,-0.49,,https://www.investing.com/etfs/dram-historical-data,2026-05-16-stock-brief.md
-2026-05-16,AMD,,424.10,424.10 (15 พ.ค.),,ไม่มีข้อมูล extended ที่เชื่อถือได้ในแหล่งที่เข้าถึงได้,,,,https://www.techi.com/,2026-05-16-stock-brief.md
-2026-05-16,ASML,,1501.81,"1,501.81 (15 พ.ค.)",1497.06,"1,497.06 (-0.32%, AH)",,-0.32,,https://www.advfn.com/stock-market/NASDAQ/ASML/news,2026-05-16-stock-brief.md
+2026-05-16,INTC,Intel Corporation,108.77,108.77 USD,106.91,106.91 USD,-6.18,-1.71,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/INTC/,2026-05-16-stock-brief.md
+2026-05-16,AVGO,Broadcom Inc.,425.19,425.19 USD,423.48,423.48 USD,-3.32,-0.40,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/AVGO/,2026-05-16-stock-brief.md
+2026-05-16,RKLB,Rocket Lab Corporation,124.77,124.77 USD,122.70,122.70 USD,-5.87,-1.66,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/RKLB/,2026-05-16-stock-brief.md
+2026-05-16,AAPL,Apple Inc.,300.23,300.23 USD,299.85,299.85 USD,0.68,-0.13,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/AAPL/,2026-05-16-stock-brief.md
+2026-05-16,NVDA,NVIDIA Corporation,225.32,225.32 USD,224.41,224.41 USD,-4.42,-0.40,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/NVDA/,2026-05-16-stock-brief.md
+2026-05-16,TSLA,"Tesla, Inc.",422.24,422.24 USD,418.57,418.57 USD,-4.75,-0.87,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/TSLA/,2026-05-16-stock-brief.md
+2026-05-16,SNDK,Sandisk Corporation,1407.61,"1,407.61 USD",1380.93,"1,380.93 USD",1.80,-1.90,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/SNDK/,2026-05-16-stock-brief.md
+2026-05-16,QQQ,"Invesco QQQ Trust, Series 1",708.93,708.93 USD,706.49,706.49 USD,-1.51,-0.34,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/QQQ/,2026-05-16-stock-brief.md
+2026-05-16,SPY,State Street SPDR S&P 500 ETF T,739.17,739.17 USD,737.34,737.34 USD,-1.20,-0.25,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/SPY/,2026-05-16-stock-brief.md
+2026-05-16,JEPQ,JPMorgan Nasdaq Equity Premium,59.77,59.77 USD,59.84,59.84 USD,-0.40,0.11,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/JEPQ/,2026-05-16-stock-brief.md
+2026-05-16,ASTS,"AST SpaceMobile, Inc.",83.67,83.67 USD,82.60,82.60 USD,0.80,-1.28,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/ASTS/,2026-05-16-stock-brief.md
+2026-05-16,MU,"Micron Technology, Inc.",724.66,724.66 USD,715.89,715.89 USD,-6.62,-1.21,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/MU/,2026-05-16-stock-brief.md
+2026-05-16,IREN,IREN LIMITED,52.94,52.94 USD,52.63,52.63 USD,-9.35,-0.59,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/IREN/,2026-05-16-stock-brief.md
+2026-05-16,EOSE,"Eos Energy Enterprises, Inc.",7.86,7.86 USD,7.78,7.78 USD,-3.73,-1.08,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/EOSE/,2026-05-16-stock-brief.md
+2026-05-16,GOOG,Alphabet Inc.,393.32,393.32 USD,392.06,392.06 USD,-0.97,-0.32,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/GOOG/,2026-05-16-stock-brief.md
+2026-05-16,DRAM,Roundhill Memory ETF,51.10,51.10 USD,50.29,50.29 USD,-5.00,-1.59,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/DRAM/,2026-05-16-stock-brief.md
+2026-05-16,AMD,"Advanced Micro Devices, Inc.",424.10,424.10 USD,420.19,420.19 USD,-5.69,-0.92,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/AMD/,2026-05-16-stock-brief.md
+2026-05-16,ASML,ASML Holding N.V. - New York Re,1501.81,"1,501.81 USD",1498.00,"1,498.00 USD",-5.22,-0.25,2026-05-15 19:59 EDT,https://finance.yahoo.com/quote/ASML/,2026-05-16-stock-brief.md
