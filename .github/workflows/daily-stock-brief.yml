@@ -27,6 +27,14 @@ jobs:
       - name: Export reports CSV
         run: python scripts/export_reports_csv.py
 
+      - name: Generate AI summary
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.2' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+        run: python scripts/generate_ai_summary.py
+
       - name: Commit and push report
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

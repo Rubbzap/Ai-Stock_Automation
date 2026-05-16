@@ -1,4 +1,5 @@
 const CSV_URL = 'https://raw.githubusercontent.com/Rubbzap/Ai-Stock_Automation/main/data/reports.csv';
+const AI_SUMMARY_URL = 'https://raw.githubusercontent.com/Rubbzap/Ai-Stock_Automation/main/data/ai_summary.csv';
 
 const SHEETS = {
   raw: 'RawData',
@@ -6,6 +7,7 @@ const SHEETS = {
   timeSeries: 'Chart_TimeSeries',
   latestMoves: 'Chart_LatestMoves',
   summary: 'Ticker_Summary',
+  aiSummary: 'AI_Summary',
   config: 'Config',
 };
 
@@ -54,6 +56,7 @@ function refreshStockData() {
   writeTimeSeries(records);
   writeLatestMoves(records, latestDate);
   writeTickerSummary(records);
+  writeAiSummary();
   writeConfig(records.length, latestDate);
 
   SpreadsheetApp.flush();
@@ -221,12 +224,38 @@ function writeTickerSummary(records) {
 function writeConfig(rowCount, latestDate) {
   const rows = [
     ['csv_url', CSV_URL],
+    ['ai_summary_url', AI_SUMMARY_URL],
     ['last_refresh', new Date()],
     ['latest_report_date', latestDate],
     ['row_count', rowCount],
-    ['looker_data_tabs', `${SHEETS.latest}, ${SHEETS.timeSeries}, ${SHEETS.latestMoves}, ${SHEETS.summary}`],
+    ['looker_data_tabs', `${SHEETS.latest}, ${SHEETS.timeSeries}, ${SHEETS.latestMoves}, ${SHEETS.summary}, ${SHEETS.aiSummary}`],
   ];
   writeRows(SHEETS.config, ['key', 'value'], rows);
+}
+
+function writeAiSummary() {
+  const response = UrlFetchApp.fetch(AI_SUMMARY_URL, {
+    muteHttpExceptions: true,
+    followRedirects: true,
+  });
+
+  if (response.getResponseCode() >= 400) {
+    writeRows(SHEETS.aiSummary, ['status', 'message'], [[
+      'missing',
+      `AI summary CSV is not available yet: ${response.getResponseCode()}`,
+    ]]);
+    return;
+  }
+
+  const rows = Utilities.parseCsv(response.getContentText('UTF-8'));
+  if (rows.length < 2) {
+    writeRows(SHEETS.aiSummary, ['status', 'message'], [['empty', 'AI summary CSV has no data rows.']]);
+    return;
+  }
+
+  const headers = rows[0];
+  const normalizedRows = rows.slice(1).map((row) => normalizeRow(headers, row));
+  writeRows(SHEETS.aiSummary, headers, normalizedRows);
 }
 
 function writeRows(sheetName, headers, rows) {

@@ -37,6 +37,7 @@ reports/YYYY-MM-DD-stock-brief.md
    - `Chart_LatestMoves`
    - `Ticker_Summary`
    - `Latest`
+   - `AI_Summary`
 
 หลังต่อข้อมูลแล้ว สามารถใช้ AI/Gemini ใน Looker Studio ด้วย prompt นี้:
 
@@ -46,12 +47,15 @@ Create a stock dashboard with:
 - bar chart of regular_move_pct by ticker for latest report_date
 - bar chart of extended_move_pct by ticker for latest report_date
 - table with report_date, ticker, regular_close, extended_price, regular_move_pct, extended_move_pct, source
+- text/table section from AI_Summary showing headline, market_tone, key_points, risks, actions
 - filter controls for ticker and report_date
 ```
 
 ดูขั้นตอนเต็มได้ที่ `docs/looker-studio.md`
 
 ดูวิธีตั้งค่า Google Sheets + Apps Script ได้ที่ `docs/google-sheets-apps-script.md`
+
+ดูวิธีเปิด AI summary ผ่าน GitHub Actions ได้ที่ `docs/ai-summary.md`
 
 ## Watchlist
 
