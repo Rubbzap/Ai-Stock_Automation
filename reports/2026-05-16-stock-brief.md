@@ -1,53 +1,80 @@
-# สรุปตลาดหุ้นรายวัน (2026-05-16)
+# Stock Brief - 2026-05-16
 
-> โฟกัส: watchlist จาก `watchlist.md` และภาพรวมตลาดสหรัฐฯ ล่าสุดหลังปิดตลาดวันศุกร์ที่ 15 พ.ค. 2026  
-> เวลาอ้างอิง: ราคาปิด/after-hours เป็นเวลา ET ตามแหล่งข้อมูล; บาง ticker มีเพียง snapshot ล่าสุดที่แหล่งสาธารณะยังไม่อัปเดตถึง 15 พ.ค.
+Generated at 2026-05-16 12:30 +07 from `watchlist.md`.
+Prices are snapshots from Yahoo Finance public chart data. Extended/overnight is the latest available pre/post-market datapoint from the same feed.
 
-## Market snapshot
+## Market Snapshot
 
-- S&P 500 ปิดที่ 7,408.50 (-1.24%), Nasdaq Composite 26,225.15 (-1.54%), Dow Jones 49,526.17 (-1.07%) หลังราคาน้ำมันและบอนด์ยีลด์กดดันหุ้นเติบโต ([AP](https://apnews.com/article/4a572b9feeed6af2986be7e7a22c651a), [Investing.com](https://www.investing.com/equities/after-hours)).
-- VIX ขึ้นเป็น 18.43 (+6.78%), WTI อยู่ราว 105.42 (+4.20%) และ US 10Y yield 4.595% (+13.6 bps) สะท้อนโหมดลดความเสี่ยง ([Investing.com](https://www.investing.com/equities/after-hours)).
-- After-hours ของ ETF ใหญ่ยังอ่อน: QQQ 706.49 (-0.34%), SPY 737.35 (-0.25%) ([Investing.com](https://www.investing.com/equities/after-hours)).
+- SPY: close 739.17, latest extended 737.34, regular move -1.20%, extended move -0.25%
+- QQQ: close 708.93, latest extended 706.49, regular move -1.51%, extended move -0.34%
+- JEPQ: close 59.77, latest extended 59.84, regular move -0.40%, extended move +0.11%
 
-## Watchlist price table
+## Watchlist Prices
 
-| Ticker | ปิด regular ล่าสุด | Extended/overnight ล่าสุด | แหล่งหลัก |
-|---|---:|---:|---|
-| INTC | 108.77 (15 พ.ค.) | 106.91 (-1.71%, AH) | [Investing.com](https://www.investing.com/equities/after-hours) |
-| AVGO | 425.19 (15 พ.ค.) | 423.57 (AH, 7:59 PM ET) | [Finviz](https://finviz.com/quote?t=AVGO), [Benzinga](https://www.benzinga.com/quote/AVGO/) |
-| RKLB | ไม่พบราคาปิด 15 พ.ค. จากแหล่งที่เข้าถึงได้; snapshot ล่าสุดราว 125.84 intraday 13 พ.ค. | ไม่มีข้อมูล extended ที่เชื่อถือได้ | [StockAnalysis](https://stockanalysis.com/stocks/rklb/forecast/) |
-| AAPL | 300.23 (15 พ.ค.) | 299.85 (-0.13%, AH) | [FinanceCharts](https://www.financecharts.com/stocks/AAPL/summary/price), [Investing.com](https://www.investing.com/equities/after-hours) |
-| NVDA | 225.32 (15 พ.ค.) | 224.41 (-0.40%, AH) | [Investing.com](https://www.investing.com/equities/after-hours) |
-| TSLA | 422.24 (15 พ.ค.) | 418.51 (-0.88%, AH) | [Investing.com](https://www.investing.com/equities/after-hours) |
-| SNDK | 1,407.61 (15 พ.ค.) | ไม่มีข้อมูล extended แยกชัดเจน | [Investing.com](https://www.investing.com/equities/after-hours) |
-| QQQ | 708.93 (คำนวณจาก AH change) | 706.49 (-0.34%, AH) | [Investing.com](https://www.investing.com/equities/after-hours) |
-| SPY | 739.17 (คำนวณจาก AH change) | 737.35 (-0.25%, AH) | [Investing.com](https://www.investing.com/equities/after-hours) |
-| JEPQ | 59.89 (13 พ.ค.) | 59.90 (+0.02%, AH 13 พ.ค.) | [StockAnalysis](https://stockanalysis.com/etf/jepq/history/) |
-| ASTS | 76.12 (intraday 13 พ.ค.; previous close 72.96) | ไม่มีข้อมูล extended ที่อัปเดต | [StockAnalysis](https://stockanalysis.com/stocks/asts/) |
-| MU | 724.66 (15 พ.ค.) | 715.89 (-1.21%, AH) | [Investing.com](https://www.investing.com/equities/after-hours) |
-| IREN | 56.16 (intraday 13 พ.ค.; previous close 56.56) | ไม่มีข้อมูล extended ที่อัปเดต | [StockAnalysis](https://stockanalysis.com/stocks/iren/) |
-| EOSE | 8.17 (14 พ.ค.) | ไม่มีข้อมูล extended ที่อัปเดต | [Finviz](https://finviz.com/quote?t=EOSE) |
-| GOOG | 395.07 previous close; แหล่ง 15 พ.ค. ที่เข้าถึงได้ไม่แสดงราคาปิดเต็ม | ไม่มีข้อมูล extended ที่อัปเดต | [Yahoo Finance](https://finance.yahoo.com/quote/GOOG/), [Benzinga](https://www.benzinga.com/quote/GOOG/) |
-| DRAM | 51.08 (15 พ.ค.) | 50.85 (-0.49%, AH) | [Investing.com](https://www.investing.com/etfs/dram-historical-data) |
-| AMD | 424.10 (15 พ.ค.) | ไม่มีข้อมูล extended ที่เชื่อถือได้ในแหล่งที่เข้าถึงได้ | [TECHi](https://www.techi.com/) |
-| ASML | 1,501.81 (15 พ.ค.) | 1,497.06 (-0.32%, AH) | [ADVFN](https://www.advfn.com/stock-market/NASDAQ/ASML/news) |
+| Ticker | Name | Regular close | Latest extended/overnight | Regular move | Extended move | Latest data time | Source |
+|---|---|---:|---:|---:|---:|---|---|
+| INTC | Intel Corporation | 108.77 USD | 106.91 USD | -6.18% | -1.71% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/INTC/) |
+| AVGO | Broadcom Inc. | 425.19 USD | 423.48 USD | -3.32% | -0.40% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/AVGO/) |
+| RKLB | Rocket Lab Corporation | 124.77 USD | 122.70 USD | -5.87% | -1.66% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/RKLB/) |
+| AAPL | Apple Inc. | 300.23 USD | 299.85 USD | +0.68% | -0.13% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/AAPL/) |
+| NVDA | NVIDIA Corporation | 225.32 USD | 224.41 USD | -4.42% | -0.40% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/NVDA/) |
+| TSLA | Tesla, Inc. | 422.24 USD | 418.57 USD | -4.75% | -0.87% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/TSLA/) |
+| SNDK | Sandisk Corporation | 1,407.61 USD | 1,380.93 USD | +1.80% | -1.90% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/SNDK/) |
+| QQQ | Invesco QQQ Trust, Series 1 | 708.93 USD | 706.49 USD | -1.51% | -0.34% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/QQQ/) |
+| SPY | State Street SPDR S&P 500 ETF T | 739.17 USD | 737.34 USD | -1.20% | -0.25% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/SPY/) |
+| JEPQ | JPMorgan Nasdaq Equity Premium  | 59.77 USD | 59.84 USD | -0.40% | +0.11% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/JEPQ/) |
+| ASTS | AST SpaceMobile, Inc. | 83.67 USD | 82.60 USD | +0.80% | -1.28% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/ASTS/) |
+| MU | Micron Technology, Inc. | 724.66 USD | 715.89 USD | -6.62% | -1.21% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/MU/) |
+| IREN | IREN LIMITED | 52.94 USD | 52.63 USD | -9.35% | -0.59% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/IREN/) |
+| EOSE | Eos Energy Enterprises, Inc. | 7.86 USD | 7.78 USD | -3.73% | -1.08% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/EOSE/) |
+| GOOG | Alphabet Inc. | 393.32 USD | 392.06 USD | -0.97% | -0.32% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/GOOG/) |
+| DRAM | Roundhill Memory ETF | 51.10 USD | 50.29 USD | -5.00% | -1.59% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/DRAM/) |
+| AMD | Advanced Micro Devices, Inc. | 424.10 USD | 420.19 USD | -5.69% | -0.92% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/AMD/) |
+| ASML | ASML Holding N.V. - New York Re | 1,501.81 USD | 1,498.00 USD | -5.22% | -0.25% | 2026-05-15 19:59 EDT | [Yahoo](https://finance.yahoo.com/quote/ASML/) |
 
-## ข่าว/บริบทที่น่าจับตา
+## Charts
 
-- ตลาดถอยจากระดับ record หลังน้ำมันทะลุ $100 และยีลด์ขึ้นแรง; กลุ่ม tech/AI รับแรงขายมากกว่าตลาดกว้าง โดย NVDA เป็นหนึ่งในตัวถ่วงหลักของ S&P 500 ([AP](https://apnews.com/article/7a29502a1b592d3fbe0ede548421ba58)).
-- หุ้น semis อ่อนพร้อมกันหลังตลาดผิดหวังว่าการเจรจา Trump-Xi ยังไม่ปลดล็อกดีลชิป/จีนชัดเจน ([Investing.com](https://www.investing.com/equities/after-hours)).
-- IREN ปิดดีล convertible notes มูลค่า $3.0B เพื่อเร่งโครงสร้างพื้นฐาน AI cloud; เป็นบวกต่อเงินทุน แต่เพิ่มโจทย์ dilution/ต้นทุนการขยายตัว ([The Block](https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates)).
-- EOSE รายงาน Q1 และประกาศ Frontier Power USA กับ Cerberus ช่วงสัปดาห์นี้ ทำให้ราคายังผันผวนสูงหลัง earnings ([Finviz](https://finviz.com/quote?t=EOSE)).
-- ASML ยังเป็นตัววัด sentiment ฝั่ง equipment หลัง Q1 ระบุยอดขายสุทธิ 8.8 พันล้านยูโรและกำไรสุทธิ 2.8 พันล้านยูโร แต่ราคาหุ้น ADR วันศุกร์ถูกขายตามกลุ่ม semis ([ASML IR](https://ourbrand.asml.com/asset/d7b914e6-fdd1-4262-b805-d80f3efcb39a/2026_04_15_Presentation-Investor-Relations-Q1-2026.pdf), [ADVFN](https://www.advfn.com/stock-market/NASDAQ/ASML/news)).
+### Top Movers - Regular Session
 
-## Source links
+```mermaid
+xychart-beta
+    title "Top movers by regular-session change (%)"
+    x-axis ["SNDK", "ASTS", "AAPL", "JEPQ", "GOOG", "SPY", "QQQ", "AVGO", "EOSE", "NVDA"]
+    y-axis "Change %" 0 --> 5
+    bar [1.80, 0.80, 0.68, -0.40, -0.97, -1.20, -1.51, -3.32, -3.73, -4.42]
+```
 
-- Market/after-hours: [AP index recap](https://apnews.com/article/4a572b9feeed6af2986be7e7a22c651a), [AP market story](https://apnews.com/article/7a29502a1b592d3fbe0ede548421ba58), [Investing.com after-hours](https://www.investing.com/equities/after-hours)
-- Prices: [FinanceCharts AAPL](https://www.financecharts.com/stocks/AAPL/summary/price), [Finviz AVGO](https://finviz.com/quote?t=AVGO), [Benzinga AVGO](https://www.benzinga.com/quote/AVGO/), [StockAnalysis JEPQ](https://stockanalysis.com/etf/jepq/history/), [StockAnalysis ASTS](https://stockanalysis.com/stocks/asts/), [StockAnalysis IREN](https://stockanalysis.com/stocks/iren/), [Finviz EOSE](https://finviz.com/quote?t=EOSE), [Yahoo GOOG](https://finance.yahoo.com/quote/GOOG/), [Investing.com DRAM](https://www.investing.com/etfs/dram-historical-data), [ADVFN ASML](https://www.advfn.com/stock-market/NASDAQ/ASML/news), [TECHi market ticker strip](https://www.techi.com/)
-- Company/news context: [The Block on IREN](https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates), [ASML Q1 presentation](https://ourbrand.asml.com/asset/d7b914e6-fdd1-4262-b805-d80f3efcb39a/2026_04_15_Presentation-Investor-Relations-Q1-2026.pdf)
+### Extended / Overnight Move
 
-## Data caveats
+```mermaid
+xychart-beta
+    title "Latest extended move from regular close (%)"
+    x-axis ["JEPQ", "AAPL", "SPY", "ASML", "GOOG", "QQQ", "AVGO", "NVDA", "IREN", "TSLA"]
+    y-axis "Extended %" -5 --> 5
+    bar [0.11, -0.13, -0.25, -0.25, -0.32, -0.34, -0.40, -0.40, -0.59, -0.87]
+```
 
-- รายงานนี้ไม่ใช่คำแนะนำการลงทุน; extended-hours มีสภาพคล่องต่ำและ bid-ask กว้างกว่าปกติ
-- แหล่งฟรีบางแห่ง cache ข้อมูลต่างเวลา โดยเฉพาะ RKLB, ASTS, IREN, EOSE, GOOG และ JEPQ; แถวเหล่านี้จึงระบุวันที่/snapshot และแจ้งเมื่อไม่มี extended-hours ที่เชื่อถือได้
-- QQQ และ SPY regular close คำนวณย้อนจากราคา after-hours และ change ที่ Investing.com แสดง ไม่ใช่ official exchange close โดยตรง
+### Quick Heatmap
+
+| Group | Names in watchlist | Avg regular move | Avg extended move |
+|---|---|---:|---:|
+| Mega-cap tech | AVGO, AAPL, NVDA, TSLA, GOOG | -2.56% | -0.42% |
+| Semis / memory | INTC, SNDK, MU, DRAM, AMD, ASML | -4.48% | -1.26% |
+| Space / high beta | RKLB, ASTS, IREN, EOSE | -4.54% | -1.15% |
+| ETFs | QQQ, SPY, JEPQ | -1.04% | -0.16% |
+
+## News Headlines
+
+- [Automotive Properties Real Est Invt TR Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/automotive-properties-real-est-invt-tr-q1-earnings-call-highlights-2026-05-16/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss) (2026-05-16 12:08 Bangkok)
+- [Nvidia surpasses Germany: How the market caps of tech giants compare to top economies](https://www.euronews.com/2026/05/16/nvidia-surpasses-germany-how-the-market-caps-of-tech-giants-compare-to-top-economies?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral&.tsrc=rss) (2026-05-16 12:00 Bangkok)
+- [Tesla China Financing Push Tests Growth, Margins And Rich Valuation](https://finance.yahoo.com/markets/stocks/articles/tesla-china-financing-push-tests-031943317.html?.tsrc=rss) (2026-05-16 10:19 Bangkok)
+- [A Look At Nova (NVMI) Valuation After Record Q1 2026 Beat And Upgraded Outlook](https://finance.yahoo.com/markets/stocks/articles/look-nova-nvmi-valuation-record-012005494.html?.tsrc=rss) (2026-05-16 08:20 Bangkok)
+- [The NUA Strategy Retiring Executives Use to Cut Taxes on $500,000 of Company Stock in Their 401(k)](https://247wallst.com/personal-finance/2026/05/15/the-nua-strategy-retiring-executives-use-to-cut-taxes-on-500000-of-company-stock-in-their-401k/?.tsrc=rss) (2026-05-16 07:27 Bangkok)
+- [Why Dogecoin Was a dog of an Investment on Friday](https://www.fool.com/investing/2026/05/15/why-dogecoin-was-a-dog-of-an-investment-on-friday/?.tsrc=rss) (2026-05-16 07:22 Bangkok)
+- [Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom](https://finance.yahoo.com/m/fb4e2544-bb05-342b-8de5-a2ec001e3c84/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss) (2026-05-16 07:08 Bangkok)
+- [Review & Preview: AI Isn’t Forever](https://finance.yahoo.com/m/eb15f6d2-5d56-388b-be0d-e51b0777e992/review-%26-preview%3A-ai-isn%E2%80%99t.html?.tsrc=rss) (2026-05-16 06:55 Bangkok)
+
+## Caveats
+
+- This is not investment advice. Extended-hours prices can be thin and volatile.
+- Yahoo public endpoints may lag official exchange data.
