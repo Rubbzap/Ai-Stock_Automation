@@ -1,6 +1,6 @@
 # Stock Brief - 2026-05-16
 
-Generated at 2026-05-16 12:30 +07 from `watchlist.md`.
+Generated at 2026-05-16 15:42 +07 from `watchlist.md`.
 Prices are snapshots from Yahoo Finance public chart data. Extended/overnight is the latest available pre/post-market datapoint from the same feed.
 
 ## Market Snapshot
@@ -65,14 +65,14 @@ xychart-beta
 
 ## News Headlines
 
+- [I’m 54 with no retirement savings: a financial advisor says I can still become a millionaire by 67](https://247wallst.com/personal-finance/2026/05/16/im-54-with-no-retirement-savings-a-financial-advisor-says-i-can-still-become-a-millionaire-by-67/?.tsrc=rss) (2026-05-16 15:35 Bangkok)
+- [Will Nvidia Stock Soar After May 20? The Evidence is Piling Up, and Here's What It Shows.](https://www.fool.com/investing/2026/05/16/will-nvidia-soar-after-may-20-evidence-shows/?.tsrc=rss) (2026-05-16 15:28 Bangkok)
+- [Nvidia vs. Alphabet: Which Will Be the World's Biggest Company By the End of 2026?](https://www.fool.com/investing/2026/05/16/nvidia-vs-alphabet-which-will-be-the-worlds-bigges/?.tsrc=rss) (2026-05-16 14:50 Bangkok)
+- [Market Crash: The Financial Stocks I'd Buy Without Hesitation](https://www.fool.com/investing/2026/05/16/market-crash-the-financial-stocks-id-buy-without-h/?.tsrc=rss) (2026-05-16 14:25 Bangkok)
+- [This Tech Stock Doesn't Need AI to Win. That's Exactly Why It's My Top Pick Right Now.](https://www.fool.com/investing/2026/05/16/this-tech-stock-doesnt-need-ai-to-win-thats-exactl/?.tsrc=rss) (2026-05-16 13:20 Bangkok)
 - [Automotive Properties Real Est Invt TR Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/automotive-properties-real-est-invt-tr-q1-earnings-call-highlights-2026-05-16/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss) (2026-05-16 12:08 Bangkok)
 - [Nvidia surpasses Germany: How the market caps of tech giants compare to top economies](https://www.euronews.com/2026/05/16/nvidia-surpasses-germany-how-the-market-caps-of-tech-giants-compare-to-top-economies?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral&.tsrc=rss) (2026-05-16 12:00 Bangkok)
 - [Tesla China Financing Push Tests Growth, Margins And Rich Valuation](https://finance.yahoo.com/markets/stocks/articles/tesla-china-financing-push-tests-031943317.html?.tsrc=rss) (2026-05-16 10:19 Bangkok)
-- [A Look At Nova (NVMI) Valuation After Record Q1 2026 Beat And Upgraded Outlook](https://finance.yahoo.com/markets/stocks/articles/look-nova-nvmi-valuation-record-012005494.html?.tsrc=rss) (2026-05-16 08:20 Bangkok)
-- [The NUA Strategy Retiring Executives Use to Cut Taxes on $500,000 of Company Stock in Their 401(k)](https://247wallst.com/personal-finance/2026/05/15/the-nua-strategy-retiring-executives-use-to-cut-taxes-on-500000-of-company-stock-in-their-401k/?.tsrc=rss) (2026-05-16 07:27 Bangkok)
-- [Why Dogecoin Was a dog of an Investment on Friday](https://www.fool.com/investing/2026/05/15/why-dogecoin-was-a-dog-of-an-investment-on-friday/?.tsrc=rss) (2026-05-16 07:22 Bangkok)
-- [Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom](https://finance.yahoo.com/m/fb4e2544-bb05-342b-8de5-a2ec001e3c84/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss) (2026-05-16 07:08 Bangkok)
-- [Review & Preview: AI Isn’t Forever](https://finance.yahoo.com/m/eb15f6d2-5d56-388b-be0d-e51b0777e992/review-%26-preview%3A-ai-isn%E2%80%99t.html?.tsrc=rss) (2026-05-16 06:55 Bangkok)
 
 ## Caveats
 

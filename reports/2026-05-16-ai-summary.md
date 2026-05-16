@@ -1,31 +1,31 @@
 # AI Summary - 2026-05-16
 
-Generated at 2026-05-16 15:23 +07 using `rule_based` / `fallback`.
+Generated at 2026-05-16 15:42 +07 using `gemini` / `gemini-2.5-flash`.
 
 ## Headline
 
-2026-05-16: watchlist average regular move -3.39%; strongest regular mover SNDK +1.80%.
+สรุปภาพรวมหุ้น watchlist ประจำวันที่ 16 พ.ค. 2026
 
 ## Market Tone
 
-risk-off / mixed
+ตลาดมีแนวโน้มเชิงลบ โดยมีการปรับตัวลดลงเฉลี่ยทั้งในและนอกเวลาทำการ แรงขายกระจุกตัวในหุ้นกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์
 
 ## Key Points
 
-- Top regular movers: SNDK +1.80%, ASTS +0.80%, AAPL +0.68%, JEPQ -0.40%, GOOG -0.97%.
-- Weakest regular movers: IREN -9.35%, MU -6.62%, INTC -6.18%, RKLB -5.87%, AMD -5.69%.
-- Top extended-hours movers: JEPQ +0.11%, AAPL -0.13%, SPY -0.25%, ASML -0.25%, GOOG -0.32%.
-- Average extended move is -0.82%.
+- การเคลื่อนไหวเฉลี่ยของตลาดเป็นลบอย่างมีนัยสำคัญที่ -3.39% ในเวลาทำการ และ -0.82% ในช่วง Extended Session
+- หุ้นกลุ่มเซมิคอนดักเตอร์ (IREN, MU, INTC, AMD) และ RKLB มีการปรับตัวลงแรงที่สุดในเวลาทำการ
+- หุ้น SNDK และ ASTS ที่บวกในเวลาทำการ กลับมาติดลบใน Extended Session
+- หุ้น JEPQ และ AAPL แสดงการเคลื่อนไหวค่อนข้างคงที่หรือบวกเล็กน้อยในช่วง Extended Session
 
 ## Risks
 
-- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.
+- ความเสี่ยงจากแรงขายที่ยังคงมีอยู่ โดยเฉพาะในหุ้นกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์
+- หุ้นที่มีการปรับขึ้นในเวลาทำการ อาจเผชิญกับการปรับฐานใน Extended Session
 
 ## Actions To Watch
 
-- Watch whether JEPQ can hold gains at the next open.
-- Check news for IREN before treating the move as purely technical.
+- ติดตามความเคลื่อนไหวของหุ้นกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์ที่อ่อนตัว
+- พิจารณาการเปลี่ยนแปลงของราคาหุ้นระหว่างช่วงเวลาทำการและนอกเวลาทำการอย่างใกล้ชิด
 
 ## Metrics
 
