@@ -2,8 +2,8 @@
 
 โปรเจกต์นี้เก็บรายงานข่าวหุ้นแบบสั้นรายวันเป็นไฟล์ Markdown ใน `reports/`
 
-[![Visualize in Looker Studio](https://img.shields.io/badge/Visualize-Looker%20Studio-4285F4?logo=looker&logoColor=white)](https://lookerstudio.google.com/reporting/create?r.reportName=Daily%20Stock%20Brief%20Dashboard)
 [![Open CSV](https://img.shields.io/badge/Data-reports.csv-34A853?logo=googlesheets&logoColor=white)](https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv)
+[![Open Looker Studio](https://img.shields.io/badge/Open-Looker%20Studio-4285F4?logo=looker&logoColor=white)](https://lookerstudio.google.com/)
 
 Automation ที่ผูกไว้จะทำงานทุกวันเวลา 09:00 ตามเวลา Asia/Bangkok แล้วสร้างไฟล์:
 
@@ -23,11 +23,33 @@ reports/YYYY-MM-DD-stock-brief.md
 
 ข้อมูลที่พร้อมต่อ BI อยู่ที่ `data/reports.csv`
 
-- กดปุ่ม **Visualize - Looker Studio** ด้านบนเพื่อเปิดหน้า create report ของ Looker Studio พร้อมชื่อ dashboard
-- ใช้ CSV URL นี้เป็นแหล่งข้อมูล: `https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv`
-- ถ้าใช้ Looker Studio โดยตรง แนะนำนำ CSV เข้า Google Sheets ก่อนด้วยสูตร `=IMPORTDATA("https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv")` แล้วต่อ Looker Studio กับ Google Sheets นั้น
+> อย่าเลือก connector ชื่อ **Looker** ใน Looker Studio เพราะอันนั้นใช้ต่อ Looker instance ไม่ใช่ CSV นี้
 
-ดูขั้นตอนสั้น ๆ ได้ที่ `docs/looker-studio.md`
+วิธีที่เสถียรที่สุด:
+
+1. เปิด Google Sheets ใหม่
+2. ใส่สูตรนี้ใน cell `A1`
+
+```text
+=IMPORTDATA("https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv")
+```
+
+3. เปิด Looker Studio
+4. เลือก connector **Google Sheets**
+5. เลือก Sheet ที่สร้างจากข้อ 1 แล้วกด Add to report
+
+หลังต่อข้อมูลแล้ว สามารถใช้ AI/Gemini ใน Looker Studio ด้วย prompt นี้:
+
+```text
+Create a stock dashboard with:
+- time series of regular_close by report_date, filterable by ticker
+- bar chart of regular_move_pct by ticker for latest report_date
+- bar chart of extended_move_pct by ticker for latest report_date
+- table with report_date, ticker, regular_close, extended_price, regular_move_pct, extended_move_pct, source
+- filter controls for ticker and report_date
+```
+
+ดูขั้นตอนเต็มได้ที่ `docs/looker-studio.md`
 
 ## Watchlist
 

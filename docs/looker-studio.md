@@ -1,7 +1,7 @@
 # Looker Studio / Google Data Studio
 
-[![Visualize in Looker Studio](https://img.shields.io/badge/Visualize-Looker%20Studio-4285F4?logo=looker&logoColor=white)](https://lookerstudio.google.com/reporting/create?r.reportName=Daily%20Stock%20Brief%20Dashboard)
 [![Open Raw CSV](https://img.shields.io/badge/Open-raw%20reports.csv-34A853?logo=googlesheets&logoColor=white)](https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv)
+[![Open Looker Studio](https://img.shields.io/badge/Open-Looker%20Studio-4285F4?logo=looker&logoColor=white)](https://lookerstudio.google.com/)
 
 ## Data Source
 
@@ -22,9 +22,25 @@ Looker Studio does not reliably create a report directly from a GitHub raw CSV U
 =IMPORTDATA("https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv")
 ```
 
-3. Open the Looker Studio button above.
+3. Open Looker Studio.
 4. Add data source: Google Sheets.
 5. Select the sheet created in step 1.
+
+Do not choose the connector named `Looker`; that connector is for connecting to a Looker instance, not this CSV dataset.
+
+## AI Prompt
+
+After adding the Google Sheets data source, use this prompt with Gemini/AI in Looker Studio if your account has the feature:
+
+```text
+Create a stock dashboard with:
+- time series of regular_close by report_date, filterable by ticker
+- bar chart of regular_move_pct by ticker for latest report_date
+- bar chart of extended_move_pct by ticker for latest report_date
+- table with report_date, ticker, regular_close, extended_price, regular_move_pct, extended_move_pct, source
+- filter controls for ticker and report_date
+Use a clean finance dashboard style.
+```
 
 ## Suggested Charts
 
