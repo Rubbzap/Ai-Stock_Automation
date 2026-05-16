@@ -28,15 +28,15 @@ reports/YYYY-MM-DD-stock-brief.md
 วิธีที่เสถียรที่สุด:
 
 1. เปิด Google Sheets ใหม่
-2. ใส่สูตรนี้ใน cell `A1`
-
-```text
-=IMPORTDATA("https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv")
-```
-
-3. เปิด Looker Studio
-4. เลือก connector **Google Sheets**
-5. เลือก Sheet ที่สร้างจากข้อ 1 แล้วกด Add to report
+2. ไปที่ `Extensions > Apps Script`
+3. วางโค้ดจาก `apps-script/Code.gs`
+4. รันฟังก์ชัน `setupStockBriefDashboard`
+5. เปิด Looker Studio แล้วเลือก connector **Google Sheets**
+6. เลือกชีตที่สร้างไว้ แล้วใช้ tab เหล่านี้เป็น data source:
+   - `Chart_TimeSeries`
+   - `Chart_LatestMoves`
+   - `Ticker_Summary`
+   - `Latest`
 
 หลังต่อข้อมูลแล้ว สามารถใช้ AI/Gemini ใน Looker Studio ด้วย prompt นี้:
 
@@ -50,6 +50,8 @@ Create a stock dashboard with:
 ```
 
 ดูขั้นตอนเต็มได้ที่ `docs/looker-studio.md`
+
+ดูวิธีตั้งค่า Google Sheets + Apps Script ได้ที่ `docs/google-sheets-apps-script.md`
 
 ## Watchlist
 

@@ -13,20 +13,19 @@ https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv
 
 ## Recommended Setup
 
-Looker Studio does not reliably create a report directly from a GitHub raw CSV URL in one click. The most stable setup is:
+Looker Studio does not reliably create a report directly from a GitHub raw CSV URL in one click. The most stable setup is Google Sheets + Apps Script:
 
 1. Create a Google Sheet.
-2. Put this formula in cell `A1`:
-
-```text
-=IMPORTDATA("https://raw.githubusercontent.com/Rubbzap/Automations1/main/data/reports.csv")
-```
-
-3. Open Looker Studio.
-4. Add data source: Google Sheets.
-5. Select the sheet created in step 1.
+2. Open `Extensions > Apps Script`.
+3. Paste `apps-script/Code.gs`.
+4. Run `setupStockBriefDashboard`.
+5. Open Looker Studio.
+6. Add data source: Google Sheets.
+7. Select the sheet created in step 1.
 
 Do not choose the connector named `Looker`; that connector is for connecting to a Looker instance, not this CSV dataset.
+
+Full setup guide: `docs/google-sheets-apps-script.md`
 
 ## AI Prompt
 
