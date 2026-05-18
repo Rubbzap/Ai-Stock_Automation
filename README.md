@@ -13,6 +13,7 @@ reports/YYYY-MM-DD-stock-brief.md
 reports/YYYY-MM-DD-ai-summary.md
 data/reports.csv
 data/ai_summary.csv
+visuals/YYYY-MM-DD-market-update.svg
 ```
 
 ## สิ่งที่รายงานควรมี
@@ -23,6 +24,7 @@ data/ai_summary.csv
 - ลิงก์แหล่งข้อมูลที่ใช้
 - หมายเหตุถ้าราคากลางคืนของตัวใดไม่มีข้อมูล
 - AI summary สำหรับ headline, market tone, key points, risks, actions
+- ภาพ infographic รายวันใน `visuals/` สำหรับแชร์หรือฝังใน dashboard
 
 ## Visualize
 
@@ -30,6 +32,7 @@ data/ai_summary.csv
 
 - `data/reports.csv`: ราคาหุ้นและ metric แบบ structured
 - `data/ai_summary.csv`: AI/rule-based summary สำหรับใส่ใน Looker Studio
+- `visuals/YYYY-MM-DD-market-update.svg`: infographic สรุปตลาดรายวัน
 
 > อย่าเลือก connector ชื่อ **Looker** ใน Looker Studio เพราะอันนั้นใช้ต่อ Looker instance ไม่ใช่ CSV นี้
 

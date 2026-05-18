@@ -35,8 +35,11 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
         run: python scripts/generate_ai_summary.py
 
+      - name: Generate market visual
+        run: python scripts/generate_market_visual.py
+
       - name: Commit and push report
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Add stock brief
-          file_pattern: reports/*.md data/*.csv
+          file_pattern: reports/*.md data/*.csv visuals/*.svg
