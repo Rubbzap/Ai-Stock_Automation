@@ -1,10 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-05-30,2026-05-30 12:51 +07,gemini,gemini-2.5-flash,สรุปข้อมูลหุ้นเฝ้าระวังประจำวันที่ 30 พ.ค. 2026,ตลาดมีแนวโน้มอ่อนตัวลงเล็กน้อย ทั้งในเวลาทำการปกติและช่วงขยายเวลา,"- หุ้น MU และ AVGO ปรับขึ้นโดดเด่นในเวลาปกติ
-- ASTS และ EOSE ปรับลงแรงในเวลาปกติ
-- NVDA และ INTC ปรับขึ้นเล็กน้อยในช่วงขยายเวลา
-- ASTS ยังคงลดลงต่อเนื่องในช่วงขยายเวลา
-- หุ้นหลายตัวมีการเคลื่อนไหวกลับทิศทางระหว่างเวลาปกติและช่วงขยายเวลา เช่น INTC, EOSE","- ความผันผวนของราคาหุ้นรายตัวสูง โดยเฉพาะ ASTS
-- แรงขายที่ยังคงมีอยู่ในหุ้นบางกลุ่ม
-- ตลาดโดยรวมยังคงขาดปัจจัยหนุนที่ชัดเจน","- ติดตามความเคลื่อนไหวของตลาดและข่าวสารอย่างใกล้ชิด
-- พิจารณาความแตกต่างของราคาหุ้นระหว่างเวลาปกติและช่วงขยายเวลา
-- ประเมินผลกระทบจากปัจจัยภายนอกที่อาจส่งผลต่อหุ้น",-1.13,-0.19,"MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%","ASTS -14.79%, EOSE -6.23%, INTC -5.14%, RKLB -3.07%, GOOG -2.51%","NVDA +0.63%, INTC +0.56%, EOSE +0.12%, JEPQ +0.11%, GOOG +0.11%","ASTS -1.48%, RKLB -0.84%, SNDK -0.66%, MU -0.64%, IREN -0.47%"
+2026-05-31,2026-05-31 13:23 +07,rule_based,fallback,2026-05-31: watchlist average regular move -1.13%; strongest regular mover MU +5.14%.,risk-off / mixed,"- Top regular movers: MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%.
+- Weakest regular movers: ASTS -14.79%, EOSE -6.23%, INTC -5.14%, RKLB -3.07%, GOOG -2.51%.
+- Top extended-hours movers: NVDA +0.63%, INTC +0.56%, EOSE +0.12%, JEPQ +0.11%, GOOG +0.11%.
+- Average extended move is -0.19%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether NVDA can hold gains at the next open.
+- Check news for ASTS before treating the move as purely technical.",-1.13,-0.19,"MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%","ASTS -14.79%, EOSE -6.23%, INTC -5.14%, RKLB -3.07%, GOOG -2.51%","NVDA +0.63%, INTC +0.56%, EOSE +0.12%, JEPQ +0.11%, GOOG +0.11%","ASTS -1.48%, RKLB -0.84%, SNDK -0.66%, MU -0.64%, IREN -0.47%"
