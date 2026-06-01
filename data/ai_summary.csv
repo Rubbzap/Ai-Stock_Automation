@@ -1,5 +1,5 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-05-31,2026-05-31 13:23 +07,rule_based,fallback,2026-05-31: watchlist average regular move -1.13%; strongest regular mover MU +5.14%.,risk-off / mixed,"- Top regular movers: MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%.
+2026-06-01,2026-06-01 14:03 +07,rule_based,fallback,2026-06-01: watchlist average regular move -1.13%; strongest regular mover MU +5.14%.,risk-off / mixed,"- Top regular movers: MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%.
 - Weakest regular movers: ASTS -14.79%, EOSE -6.23%, INTC -5.14%, RKLB -3.07%, GOOG -2.51%.
 - Top extended-hours movers: NVDA +0.63%, INTC +0.56%, EOSE +0.12%, JEPQ +0.11%, GOOG +0.11%.
 - Average extended move is -0.19%.","- Extended-hours prices can be thin and may reverse during the next regular session.
