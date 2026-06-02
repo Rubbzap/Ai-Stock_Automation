@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-01,2026-06-01 14:03 +07,rule_based,fallback,2026-06-01: watchlist average regular move -1.13%; strongest regular mover MU +5.14%.,risk-off / mixed,"- Top regular movers: MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%.
-- Weakest regular movers: ASTS -14.79%, EOSE -6.23%, INTC -5.14%, RKLB -3.07%, GOOG -2.51%.
-- Top extended-hours movers: NVDA +0.63%, INTC +0.56%, EOSE +0.12%, JEPQ +0.11%, GOOG +0.11%.
-- Average extended move is -0.19%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether NVDA can hold gains at the next open.
-- Check news for ASTS before treating the move as purely technical.",-1.13,-0.19,"MU +5.14%, AVGO +4.73%, SNDK +3.25%, DRAM +1.01%, ASML +0.44%","ASTS -14.79%, EOSE -6.23%, INTC -5.14%, RKLB -3.07%, GOOG -2.51%","NVDA +0.63%, INTC +0.56%, EOSE +0.12%, JEPQ +0.11%, GOOG +0.11%","ASTS -1.48%, RKLB -0.84%, SNDK -0.66%, MU -0.64%, IREN -0.47%"
+2026-06-02,2026-06-02 13:45 +07,gemini,gemini-2.5-flash,"สรุปภาพรวมหุ้นเฝ้าระวังประจำวันที่ 2 มิ.ย. 2026: ภาคปกติบวก, ภาคซื้อขายนอกเวลาอ่อนตัว",มีทิศทางที่หลากหลาย โดยภาคปกติมีค่าเฉลี่ยการเคลื่อนไหวเป็นบวกเล็กน้อย แต่กลับพบแรงขายทำกำไรในภาคซื้อขายนอกเวลา ทำให้ภาพรวมอ่อนแรงลง,"- หุ้น DRAM, MU, EOSE, NVDA ปรับตัวขึ้นโดดเด่นในภาคปกติ
+- หุ้น RKLB, ASTS, INTC, TSLA, AAPL ปรับตัวลงค่อนข้างมากในภาคปกติ
+- หุ้น DRAM และ MU ยังคงรักษาระดับการปรับตัวขึ้นได้ดีในภาคซื้อขายนอกเวลา แม้โดยรวมจะอ่อนตัว
+- ค่าเฉลี่ยการเคลื่อนไหวในภาคปกติเป็นบวก 0.16% ขณะที่ภาคซื้อขายนอกเวลาติดลบ 0.19%","- ความผันผวนสูงในรายหลักทรัพย์ โดยเฉพาะ RKLB ที่ลดลงถึง 14.7%
+- แรงขายทำกำไรที่เห็นได้ชัดในภาคซื้อขายนอกเวลา บ่งชี้ถึง sentiment ที่อ่อนตัว
+- หุ้นเทคโนโลยีขนาดใหญ่บางตัวมีการปรับฐาน","- ติดตามการเคลื่อนไหวของหุ้นที่มีการเปลี่ยนแปลงราคาอย่างมีนัยสำคัญทั้งสองทิศทาง
+- พิจารณาปัจจัยเฉพาะที่ส่งผลต่อการเปลี่ยนแปลงของหุ้นแต่ละตัว
+- สังเกตแนวโน้มของตลาดในภาคซื้อขายนอกเวลาซึ่งอาจส่งผลต่อการเปิดตลาดในวันถัดไป",0.16,-0.19,"DRAM +7.59%, MU +6.64%, EOSE +6.41%, NVDA +6.26%, SNDK +3.92%","RKLB -14.70%, ASTS -6.84%, INTC -4.67%, TSLA -4.57%, AAPL -1.84%","AVGO +2.71%, DRAM +0.56%, MU +0.44%, JEPQ -0.11%, RKLB -0.18%","IREN -0.95%, EOSE -0.89%, ASTS -0.71%, GOOG -0.69%, INTC -0.67%"
