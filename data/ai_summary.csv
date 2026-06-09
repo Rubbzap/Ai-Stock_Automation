@@ -1,9 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-08,2026-06-08 13:48 +07,gemini,gemini-2.5-flash,สรุปข้อมูลเฝ้าระวังหุ้นประจำวันที่ 8 มิ.ย. 2026,ภาพรวมตลาดแสดงทิศทางเชิงลบชัดเจน โดยเฉพาะช่วงตลาดเปิดปกติ,"- ตลาดเฉลี่ยลดลง -8.18% ในช่วงปกติ และ -1.08% ในช่วงนอกเวลาทำการ
-- หุ้นใหญ่บางตัว เช่น GOOG และ AAPL ลดลงน้อยกว่าค่าเฉลี่ยตลาดในเวลาปกติ
-- DRAM, MU, ASTS, EOSE, IREN ปรับตัวลงแรงสุดกว่า 12% ในช่วงตลาดปกติ
-- AAPL และ TSLA มีการปรับขึ้นเล็กน้อยในเวลาซื้อขายนอกเวลา แต่ EOSE, RKLB, INTC ยังคงลดลง","- ความผันผวนสูงในกลุ่มหุ้นที่ลดลงแรง เช่น DRAM และ MU
-- หุ้น EOSE, IREN, ASTS แสดงความอ่อนแอต่อเนื่องทั้งในและนอกเวลา
-- ภาวะตลาดโดยรวมมีแนวโน้มขาลงที่อาจส่งผลกระทบต่อภาพรวมพอร์ต","- ติดตามสถานการณ์ตลาดและหุ้นรายตัวอย่างใกล้ชิด
-- ศึกษาข้อมูลและปัจจัยที่เกี่ยวข้องกับหุ้นที่ผันผวนสูง
-- ทบทวนข้อมูลก่อนการตัดสินใจลงทุนเสมอ",-8.18,-1.08,"GOOG -0.95%, AAPL -1.25%, SPY -2.58%, JEPQ -3.01%, QQQ -4.80%","DRAM -15.08%, MU -13.25%, ASTS -12.76%, EOSE -12.38%, IREN -12.14%","AAPL +0.14%, TSLA +0.08%, ASML -0.05%, AVGO -0.18%, JEPQ -0.29%","EOSE -2.82%, RKLB -2.48%, INTC -2.29%, IREN -2.04%, ASTS -1.93%"
+2026-06-09,2026-06-09 13:13 +07,rule_based,fallback,2026-06-09: watchlist average regular move +3.36%; strongest regular mover INTC +11.19%.,risk-on,"- Top regular movers: INTC +11.19%, MU +9.87%, IREN +8.91%, DRAM +8.48%, ASML +6.54%.
+- Weakest regular movers: EOSE -5.51%, AAPL -1.89%, ASTS -1.65%, GOOG -1.25%, SPY +0.23%.
+- Top extended-hours movers: MU +0.60%, EOSE +0.59%, DRAM +0.56%, SNDK +0.42%, RKLB +0.14%.
+- Average extended move is -0.01%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether MU can hold gains at the next open.
+- Check news for EOSE before treating the move as purely technical.",3.36,-0.01,"INTC +11.19%, MU +9.87%, IREN +8.91%, DRAM +8.48%, ASML +6.54%","EOSE -5.51%, AAPL -1.89%, ASTS -1.65%, GOOG -1.25%, SPY +0.23%","MU +0.60%, EOSE +0.59%, DRAM +0.56%, SNDK +0.42%, RKLB +0.14%","IREN -0.78%, NVDA -0.47%, INTC -0.41%, AAPL -0.28%, ASML -0.20%"
