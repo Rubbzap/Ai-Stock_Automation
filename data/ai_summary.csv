@@ -1,9 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-10,2026-06-10 13:27 +07,gemini,gemini-2.5-flash,สรุปตลาดหุ้นวันที่ 10 มิ.ย. 2026: ความผันผวนของหุ้นเทคฯ และเซมิคอนดักเตอร์,ตลาดแสดงความผันผวนที่แตกต่างกันระหว่างชั่วโมงทำการปกติและนอกเวลาทำการ หุ้นกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์มีการเคลื่อนไหวที่โดดเด่นทั้งขาขึ้นและขาลง,"- ค่าเฉลี่ยการเคลื่อนไหวในชั่วโมงทำการปกติเป็นบวก 3.36% แต่ติดลบ 2.67% ในช่วงนอกเวลาทำการ
-- หุ้น INTC, MU, IREN, DRAM, ASML ปรับขึ้นโดดเด่นในชั่วโมงทำการปกติ
-- IREN พุ่งขึ้น 8.91% ในชั่วโมงทำการปกติ แต่ร่วงลง 9.38% ในช่วงนอกเวลาทำการ
-- หุ้น EOSE, AAPL, GOOG แสดงความอ่อนแอ โดยเฉพาะในช่วงนอกเวลาทำการ","- ความผันผวนสูงของราคาหุ้นระหว่างชั่วโมงการซื้อขายที่แตกต่างกัน
-- ความเสี่ยงของการกลับตัวของราคาที่รวดเร็ว โดยเฉพาะหุ้นที่ปรับขึ้นแรงในชั่วโมงทำการปกติอาจร่วงลงนอกเวลาทำการ
-- หุ้นขนาดใหญ่อย่าง Apple และ Google แสดงความอ่อนแอที่ต่อเนื่อง","- พิจารณาการเคลื่อนไหวของราคาหุ้นในทุกช่วงเวลาเพื่อประเมินความสมบูรณ์ของแนวโน้ม
-- จับตาหุ้นที่มีความผันผวนสูง เช่น IREN, EOSE ที่มีการเปลี่ยนแปลงอย่างรุนแรง
-- ติดตามปัจจัยมหภาคและข่าวเฉพาะหุ้นที่อาจส่งผลต่อราคาในช่วงนอกเวลาทำการ",3.36,-2.67,"INTC +11.19%, MU +9.87%, IREN +8.91%, DRAM +8.48%, ASML +6.54%","EOSE -5.51%, AAPL -1.89%, ASTS -1.65%, GOOG -1.25%, SPY +0.23%","ASML +1.48%, GOOG +0.14%, SPY -0.48%, SNDK -0.94%, NVDA -1.06%","IREN -9.38%, EOSE -6.74%, RKLB -5.78%, AMD -3.74%, AAPL -3.46%"
+2026-06-11,2026-06-11 13:53 +07,rule_based,fallback,2026-06-11: watchlist average regular move -2.19%; strongest regular mover ASML +1.64%.,risk-off / mixed,"- Top regular movers: ASML +1.64%, GOOG +0.31%, SNDK +0.28%, NVDA -0.22%, SPY -0.29%.
+- Weakest regular movers: IREN -8.73%, EOSE -6.43%, RKLB -4.77%, AAPL -3.64%, ASTS -3.64%.
+- Top extended-hours movers: AAPL +0.10%, SNDK -1.93%, SPY -1.93%, JEPQ -2.28%, QQQ -2.56%.
+- Average extended move is -3.84%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
+- Check news for IREN before treating the move as purely technical.",-2.19,-3.84,"ASML +1.64%, GOOG +0.31%, SNDK +0.28%, NVDA -0.22%, SPY -0.29%","IREN -8.73%, EOSE -6.43%, RKLB -4.77%, AAPL -3.64%, ASTS -3.64%","AAPL +0.10%, SNDK -1.93%, SPY -1.93%, JEPQ -2.28%, QQQ -2.56%","AMD -7.34%, MU -6.29%, AVGO -6.24%, IREN -6.17%, DRAM -5.78%"
