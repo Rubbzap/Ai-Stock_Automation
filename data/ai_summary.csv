@@ -1,7 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-11,2026-06-11 13:53 +07,rule_based,fallback,2026-06-11: watchlist average regular move -2.19%; strongest regular mover ASML +1.64%.,risk-off / mixed,"- Top regular movers: ASML +1.64%, GOOG +0.31%, SNDK +0.28%, NVDA -0.22%, SPY -0.29%.
-- Weakest regular movers: IREN -8.73%, EOSE -6.43%, RKLB -4.77%, AAPL -3.64%, ASTS -3.64%.
-- Top extended-hours movers: AAPL +0.10%, SNDK -1.93%, SPY -1.93%, JEPQ -2.28%, QQQ -2.56%.
-- Average extended move is -3.84%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
-- Check news for IREN before treating the move as purely technical.",-2.19,-3.84,"ASML +1.64%, GOOG +0.31%, SNDK +0.28%, NVDA -0.22%, SPY -0.29%","IREN -8.73%, EOSE -6.43%, RKLB -4.77%, AAPL -3.64%, ASTS -3.64%","AAPL +0.10%, SNDK -1.93%, SPY -1.93%, JEPQ -2.28%, QQQ -2.56%","AMD -7.34%, MU -6.29%, AVGO -6.24%, IREN -6.17%, DRAM -5.78%"
+2026-06-12,2026-06-12 13:46 +07,rule_based,fallback,2026-06-12: watchlist average regular move +6.67%; strongest regular mover SNDK +14.50%.,risk-on,"- Top regular movers: SNDK +14.50%, DRAM +13.51%, ASTS +11.73%, MU +11.66%, IREN +10.07%.
+- Weakest regular movers: GOOG +0.92%, AAPL +1.39%, SPY +1.70%, EOSE +2.14%, NVDA +2.22%.
+- Top extended-hours movers: ASTS +7.01%, RKLB +5.85%, SNDK +1.73%, IREN +1.39%, DRAM +1.37%.
+- Average extended move is +1.30%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether ASTS can hold gains at the next open.
+- Check news for GOOG before treating the move as purely technical.",6.67,1.30,"SNDK +14.50%, DRAM +13.51%, ASTS +11.73%, MU +11.66%, IREN +10.07%","GOOG +0.92%, AAPL +1.39%, SPY +1.70%, EOSE +2.14%, NVDA +2.22%","ASTS +7.01%, RKLB +5.85%, SNDK +1.73%, IREN +1.39%, DRAM +1.37%","AVGO -0.06%, TSLA -0.04%, AAPL +0.06%, JEPQ +0.16%, SPY +0.23%"
