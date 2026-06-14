@@ -1,7 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-13,2026-06-13 13:20 +07,gemini,gemini-2.5-flash,สรุปภาวะตลาด: 13 มิ.ย. 2026,ตลาดโดยรวมมีความเคลื่อนไหวผสมผสาน โดยช่วงทำการปกติมีแนวโน้มลดลงเล็กน้อย ขณะที่ช่วงนอกเวลาทำการมีการฟื้นตัว,"- หุ้นกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์ (INTC, IREN, SNDK, AMD) ปรับตัวขึ้นโดดเด่นในเวลาทำการปกติ
-- หุ้นผันผวนสูง (ASTS, RKLB, EOSE) ร่วงแรงในเวลาทำการ แต่ฟื้นตัวนอกเวลาทำการ
-- AAPL ปรับตัวลงในช่วงเวลาทำการปกติ","- ความผันผวนสูงของหุ้นบางตัว (ASTS, RKLB, EOSE) บ่งชี้ความไม่แน่นอน
-- ค่าเฉลี่ยตลาดติดลบช่วงทำการปกติ แสดงถึงแรงกดดันโดยรวม","- ติดตามปัจจัยหนุนหุ้นที่ฟื้นตัวนอกเวลาทำการ
-- พิจารณาความผันผวนและสภาพคล่องของหุ้นที่เคลื่อนไหวรุนแรง
-- เฝ้าระวังข่าวสารกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์",-0.47,0.66,"INTC +6.51%, IREN +5.40%, SNDK +5.24%, AMD +4.73%, TSLA +1.82%","ASTS -15.53%, RKLB -10.79%, EOSE -2.26%, ASML -1.89%, AAPL -1.52%","EOSE +2.15%, ASTS +2.10%, RKLB +1.94%, IREN +1.04%, DRAM +0.83%","TSLA -0.08%, ASML -0.02%, SPY +0.08%, JEPQ +0.10%, NVDA +0.11%"
+2026-06-14,2026-06-14 13:45 +07,rule_based,fallback,2026-06-14: watchlist average regular move -0.47%; strongest regular mover INTC +6.51%.,risk-off / mixed,"- Top regular movers: INTC +6.51%, IREN +5.40%, SNDK +5.24%, AMD +4.73%, TSLA +1.82%.
+- Weakest regular movers: ASTS -15.53%, RKLB -10.79%, EOSE -2.26%, ASML -1.89%, AAPL -1.52%.
+- Top extended-hours movers: EOSE +2.15%, ASTS +2.10%, RKLB +1.94%, IREN +1.04%, DRAM +0.83%.
+- Average extended move is +0.66%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether EOSE can hold gains at the next open.
+- Check news for ASTS before treating the move as purely technical.",-0.47,0.66,"INTC +6.51%, IREN +5.40%, SNDK +5.24%, AMD +4.73%, TSLA +1.82%","ASTS -15.53%, RKLB -10.79%, EOSE -2.26%, ASML -1.89%, AAPL -1.52%","EOSE +2.15%, ASTS +2.10%, RKLB +1.94%, IREN +1.04%, DRAM +0.83%","TSLA -0.08%, ASML -0.02%, SPY +0.08%, JEPQ +0.10%, NVDA +0.11%"
