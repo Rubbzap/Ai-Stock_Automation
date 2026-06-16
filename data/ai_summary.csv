@@ -1,7 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-15,2026-06-15 14:25 +07,rule_based,fallback,2026-06-15: watchlist average regular move -0.47%; strongest regular mover INTC +6.51%.,risk-off / mixed,"- Top regular movers: INTC +6.51%, IREN +5.40%, SNDK +5.24%, AMD +4.73%, TSLA +1.82%.
-- Weakest regular movers: ASTS -15.53%, RKLB -10.79%, EOSE -2.26%, ASML -1.89%, AAPL -1.52%.
-- Top extended-hours movers: EOSE +2.15%, ASTS +2.10%, RKLB +1.94%, IREN +1.04%, DRAM +0.83%.
-- Average extended move is +0.66%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether EOSE can hold gains at the next open.
-- Check news for ASTS before treating the move as purely technical.",-0.47,0.66,"INTC +6.51%, IREN +5.40%, SNDK +5.24%, AMD +4.73%, TSLA +1.82%","ASTS -15.53%, RKLB -10.79%, EOSE -2.26%, ASML -1.89%, AAPL -1.52%","EOSE +2.15%, ASTS +2.10%, RKLB +1.94%, IREN +1.04%, DRAM +0.83%","TSLA -0.08%, ASML -0.02%, SPY +0.08%, JEPQ +0.10%, NVDA +0.11%"
+2026-06-16,2026-06-16 14:31 +07,rule_based,fallback,2026-06-16: watchlist average regular move +2.47%; strongest regular mover RKLB +6.70%.,risk-on,"- Top regular movers: RKLB +6.70%, INTC +6.51%, ASTS +6.26%, EOSE +5.28%, SNDK +5.24%.
+- Weakest regular movers: AAPL -1.52%, MU -1.43%, AVGO -0.91%, DRAM -0.17%, NVDA +0.16%.
+- Top extended-hours movers: MU +10.38%, DRAM +8.91%, AMD +6.73%, SNDK +6.30%, AVGO +3.33%.
+- Average extended move is +2.37%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether MU can hold gains at the next open.
+- Check news for AAPL before treating the move as purely technical.",2.47,2.37,"RKLB +6.70%, INTC +6.51%, ASTS +6.26%, EOSE +5.28%, SNDK +5.24%","AAPL -1.52%, MU -1.43%, AVGO -0.91%, DRAM -0.17%, NVDA +0.16%","MU +10.38%, DRAM +8.91%, AMD +6.73%, SNDK +6.30%, AVGO +3.33%","RKLB -0.58%, EOSE -0.16%, QQQ -0.15%, JEPQ -0.14%, ASTS -0.14%"
