@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05264F"/>
+      <stop offset="45%" stop-color="#087B9E"/>
+      <stop offset="100%" stop-color="#0A1942"/>
+    </linearGradient>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B315F" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#07132E" stop-opacity="0.94"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#00152A" flood-opacity="0.55"/>
+    </filter>
+    <style>
+      text { font-family: Inter, Arial, 'Noto Sans Thai', sans-serif; letter-spacing: 0; }
+      .tiny { opacity: 0.76; }
+    </style>
+  </defs>
+  <rect width="1440" height="900" fill="url(#bg)"/>
+  <g opacity="0.22">
+    <path d="M40 670 C170 570, 240 640, 360 500 S580 410, 700 480 S940 620, 1110 380 S1290 280, 1400 330" fill="none" stroke="#7BFFF2" stroke-width="5"/>
+    <path d="M10 760 L130 700 L240 735 L360 620 L470 650 L600 540 L735 580 L850 430 L980 465 L1090 350 L1260 390 L1410 230" fill="none" stroke="#B6FF66" stroke-width="4"/>
+    <g fill="#FFFFFF">
+      <circle cx="1180" cy="90" r="5"/><circle cx="1320" cy="170" r="4"/><circle cx="210" cy="110" r="4"/><circle cx="92" cy="210" r="3"/>
+    </g>
+  </g>
+
+  <text x="720" y="74" text-anchor="middle" font-size="56" font-weight="950" fill="#FFFFFF" stroke="#001B35" stroke-width="6" paint-order="stroke">FINANCIAL MARKET UPDATE</text>
+  <text x="720" y="112" text-anchor="middle" font-size="24" font-weight="800" fill="#A7F3FF">2026-06-19 | Provider: gemini / gemini-2.5-flash</text>
+
+  <g filter="url(#shadow)">
+    
+    <rect x="70" y="142" width="255" height="118" rx="22" fill="#071B36" stroke="#48E0FF" stroke-width="3"/>
+    <text x="92" y="180" font-size="18" font-weight="800" fill="#A7E8FF">Average regular move</text>
+    <text x="92" y="228" font-size="38" font-weight="950" fill="#FFFFFF">+1.25%</text>
+    
+    
+    <rect x="350" y="142" width="255" height="118" rx="22" fill="#071B36" stroke="#9BFF6A" stroke-width="3"/>
+    <text x="372" y="180" font-size="18" font-weight="800" fill="#A7E8FF">Average extended move</text>
+    <text x="372" y="228" font-size="38" font-weight="950" fill="#FFFFFF">+3.58%</text>
+    
+    
+    <rect x="630" y="142" width="255" height="118" rx="22" fill="#071B36" stroke="#FFD84D" stroke-width="3"/>
+    <text x="652" y="180" font-size="18" font-weight="800" fill="#A7E8FF">Market tone</text>
+    <text x="652" y="228" font-size="38" font-weight="950" fill="#FFFFFF">ตลาดมีความผันผวนสูง โด</text>
+    
+    
+    <rect x="910" y="142" width="255" height="118" rx="22" fill="#071B36" stroke="#FF78A6" stroke-width="3"/>
+    <text x="932" y="180" font-size="18" font-weight="800" fill="#A7E8FF">Tickers tracked</text>
+    <text x="932" y="228" font-size="38" font-weight="950" fill="#FFFFFF">18</text>
+    
+  </g>
+
+  <g filter="url(#shadow)">
+    
+    <rect x="70" y="290" width="760" height="300" rx="26" fill="url(#panelGrad)" stroke="#48E0FF" stroke-width="4"/>
+    <rect x="72" y="292" width="756" height="70" rx="24" fill="rgba(5,18,46,0.72)"/>
+    <text x="98" y="337" font-size="32" font-weight="900" fill="#FFFFFF">AI MARKET BRIEF</text>
+    
+    <text x="105" y="390" font-size="29" font-weight="900" fill="#FFFFFF">สรุปข้อมูลหุ้นเฝ้าระวังประจำวันที่ 19 มิ.ย. 2569</text>
+    <text x="105" y="465" font-size="22" font-weight="650" fill="#DDFBFF">• หุ้นกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์มีการเคลื่อนไหวที่โดดเด่นทั้งในทิศทางบวกและลบ</text>
+<text x="105" y="499" font-size="22" font-weight="650" fill="#DDFBFF">• การเคลื่อนไหวเฉลี่ยหลังตลาดปิด (extended hours) สูงกว่าปกติอย่างมีนัยสำคัญ</text>
+<text x="105" y="533" font-size="22" font-weight="650" fill="#DDFBFF">• หุ้นที่ปรับตัวขึ้นแรงรวมถึง EOSE, SNDK, DRAM, INTC, MU, AMD</text>
+<text x="105" y="567" font-size="22" font-weight="650" fill="#DDFBFF">• หุ้นที่ปรับตัวลงในเวลาทำการปกติเช่น GOOG, TSLA, NVDA</text>
+
+    
+    <rect x="860" y="290" width="510" height="300" rx="26" fill="url(#panelGrad)" stroke="#9BFF6A" stroke-width="4"/>
+    <rect x="862" y="292" width="506" height="70" rx="24" fill="rgba(5,18,46,0.72)"/>
+    <text x="888" y="337" font-size="32" font-weight="900" fill="#FFFFFF">TOP MOVERS</text>
+    
+    <text x="895" y="392" font-size="26" font-weight="900" fill="#FFFFFF">Regular session leaders</text>
+<text x="895" y="437.2" font-size="20" font-weight="800" fill="#D9F7FF">EOSE</text>
+<rect x="967" y="434.0" width="310" height="4.666666666666667" rx="10" fill="#123B63" opacity="0.75"/>
+<rect x="967" y="434.0" width="310.0" height="4.666666666666667" rx="10" fill="#39F59B"/>
+<text x="1287" y="437.2" text-anchor="end" font-size="19" font-weight="800" fill="#FFFFFF">+11.60%</text>
+<text x="895" y="455.8" font-size="20" font-weight="800" fill="#D9F7FF">AVGO</text>
+<rect x="967" y="452.6666666666667" width="310" height="4.666666666666667" rx="10" fill="#123B63" opacity="0.75"/>
+<rect x="967" y="452.6666666666667" width="114.9" height="4.666666666666667" rx="10" fill="#39F59B"/>
+<text x="1287" y="455.8" text-anchor="end" font-size="19" font-weight="800" fill="#FFFFFF">+4.30%</text>
+<text x="895" y="474.5" font-size="20" font-weight="800" fill="#D9F7FF">ASTS</text>
+<rect x="967" y="471.3333333333333" width="310" height="4.666666666666667" rx="10" fill="#123B63" opacity="0.75"/>
+<rect x="967" y="471.3333333333333" width="103.4" height="4.666666666666667" rx="10" fill="#39F59B"/>
+<text x="1287" y="474.5" text-anchor="end" font-size="19" font-weight="800" fill="#FFFFFF">+3.87%</text>
+<text x="895" y="493.2" font-size="20" font-weight="800" fill="#D9F7FF">ASML</text>
+<rect x="967" y="490.0" width="310" height="4.666666666666667" rx="10" fill="#123B63" opacity="0.75"/>
+<rect x="967" y="490.0" width="94.6" height="4.666666666666667" rx="10" fill="#39F59B"/>
+<text x="1287" y="493.2" text-anchor="end" font-size="19" font-weight="800" fill="#FFFFFF">+3.54%</text>
+<text x="895" y="511.8" font-size="20" font-weight="800" fill="#D9F7FF">INTC</text>
+<rect x="967" y="508.6666666666667" width="310" height="4.666666666666667" rx="10" fill="#123B63" opacity="0.75"/>
+<rect x="967" y="508.6666666666667" width="92.5" height="4.666666666666667" rx="10" fill="#39F59B"/>
+<text x="1287" y="511.8" text-anchor="end" font-size="19" font-weight="800" fill="#FFFFFF">+3.46%</text>
+<text x="895" y="530.5" font-size="20" font-weight="800" fill="#D9F7FF">RKLB</text>
+<rect x="967" y="527.3333333333334" width="310" height="4.666666666666667" rx="10" fill="#123B63" opacity="0.75"/>
+<rect x="967" y="527.3333333333334" width="85.5" height="4.666666666666667" rx="10" fill="#39F59B"/>
+<text x="1287" y="530.5" text-anchor="end" font-size="19" font-weight="800" fill="#FFFFFF">+3.20%</text>
+
+    
+    <rect x="70" y="630" width="625" height="210" rx="26" fill="url(#panelGrad)" stroke="#FFCE4D" stroke-width="4"/>
+    <rect x="72" y="632" width="621" height="70" rx="24" fill="rgba(5,18,46,0.72)"/>
+    <text x="98" y="677" font-size="32" font-weight="900" fill="#FFFFFF">RISKS</text>
+    
+    <text x="105" y="725" font-size="21" font-weight="650" fill="#FFF4C7">• ความผันผวนของตลาดที่สูงอาจนำไปสู่การเปลี่ยนแปลงราคาอย่างรวดเร็วและไม่คาดคิด</text>
+<text x="105" y="759" font-size="21" font-weight="650" fill="#FFF4C7">• ประสิทธิภาพที่แตกต่างกันของหุ้นบางตัว บ่งชี้ถึงความไม่แน่นอนในแนวโน้มตลาด</text>
+<text x="105" y="793" font-size="21" font-weight="650" fill="#FFF4C7">• ความเสี่ยงเฉพาะกลุ่มอุตสาหกรรม โดยเฉพาะในภาคเทคโนโลยีและเซมิคอนดักเตอร์ที่เคลื่อนไหวรุนแรง</text>
+
+    
+    <rect x="725" y="630" width="645" height="210" rx="26" fill="url(#panelGrad)" stroke="#FF78A6" stroke-width="4"/>
+    <rect x="727" y="632" width="641" height="70" rx="24" fill="rgba(5,18,46,0.72)"/>
+    <text x="753" y="677" font-size="32" font-weight="900" fill="#FFFFFF">WATCH NEXT</text>
+    
+    <text x="760" y="725" font-size="21" font-weight="650" fill="#FFE4EF">• เฝ้าติดตามการเคลื่อนไหวของราคาหุ้นอย่างใกล้ชิด โดยเฉพาะในช่วงนอกเวลาทำการ</text>
+<text x="760" y="759" font-size="21" font-weight="650" fill="#FFE4EF">• วิเคราะห์ข้อมูลและข่าวสารที่เกี่ยวข้องกับหุ้นรายตัวและแนวโน้มอุตสาหกรรม</text>
+<text x="760" y="793" font-size="21" font-weight="650" fill="#FFE4EF">• พิจารณาความแตกต่างของการเคลื่อนไหวในแต่ละช่วงเวลาเพื่อประกอบการตัดสินใจ</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="198" width="1300" height="58" rx="18" fill="#03172E" opacity="0.72" stroke="#49E0FF" stroke-width="2"/>
+    <text x="105" y="236" font-size="24" font-weight="850" fill="#EAFBFF">Weakest: GOOG -2.43%, TSLA -2.05%, IREN -1.81%, SNDK -1.64%, NVDA -1.33%</text>
+    <text x="930" y="236" font-size="24" font-weight="850" fill="#EAFBFF">Extended: SNDK +12.79%, DRAM +11.72%, INTC +10.80%</text>
+  </g>
+</svg>
