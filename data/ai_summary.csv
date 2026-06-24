@@ -1,7 +1,8 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-06-23,2026-06-23 13:11 +07,rule_based,fallback,2026-06-23: watchlist average regular move -0.64%; strongest regular mover MU +6.82%.,risk-off / mixed,"- Top regular movers: MU +6.82%, DRAM +5.23%, INTC +5.19%, SNDK +4.07%, AMD +2.65%.
-- Weakest regular movers: ASTS -9.26%, RKLB -6.48%, IREN -5.15%, GOOG -5.08%, AVGO -4.67%.
-- Top extended-hours movers: MU +1.57%, ASTS +0.42%, IREN +0.23%, AVGO +0.09%, JEPQ -0.05%.
-- Average extended move is -0.30%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether MU can hold gains at the next open.
-- Check news for ASTS before treating the move as purely technical.",-0.64,-0.30,"MU +6.82%, DRAM +5.23%, INTC +5.19%, SNDK +4.07%, AMD +2.65%","ASTS -9.26%, RKLB -6.48%, IREN -5.15%, GOOG -5.08%, AVGO -4.67%","MU +1.57%, ASTS +0.42%, IREN +0.23%, AVGO +0.09%, JEPQ -0.05%","INTC -1.38%, RKLB -1.13%, GOOG -0.97%, AMD -0.93%, EOSE -0.54%"
+2026-06-24,2026-06-24 13:10 +07,gemini,gemini-2.5-flash,สรุปภาพรวมหุ้นเฝ้าระวัง: ตลาดปิดลบแรง บางกลุ่มฟื้นตัวนอกเวลา,ตลาดโดยรวมปิดลบหนัก โดยเฉพาะกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์ที่ปรับตัวลงแรง แต่มีแรงซื้อกลับในหุ้นบางตัวในช่วงนอกเวลาทำการ แสดงถึงภาวะผสมผสาน,"- ตลาดปิดลบเฉลี่ย -5.76% ในช่วงเวลาทำการปกติ
+- มีการปรับตัวขึ้นเฉลี่ย +0.56% ในช่วงนอกเวลาทำการ
+- หุ้น DRAM, SNDK, MU เป็นกลุ่มที่ปรับตัวลงมากที่สุดในช่วงเวลาทำการปกติ
+- DRAM และ MU มีการฟื้นตัวที่โดดเด่นที่สุดในช่วงนอกเวลาทำการ","- ความผันผวนสูง โดยเฉพาะแรงเทขายในช่วงเวลาทำการปกติ
+- กลุ่มเซมิคอนดักเตอร์ยังคงมีความอ่อนไหวต่อปัจจัยลบ
+- การฟื้นตัวนอกเวลาทำการอาจเป็นเพียงระยะสั้น","- เฝ้าระวังความเคลื่อนไหวของกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์
+- พิจารณาความแตกต่างของราคาและพฤติกรรมการซื้อขายระหว่างช่วงเวลาทำการปกติและนอกเวลาทำการ",-5.76,0.56,"ASTS -0.44%, GOOG -0.77%, AAPL -0.91%, SPY -1.45%, JEPQ -2.48%","DRAM -14.25%, SNDK -13.64%, MU -13.18%, EOSE -11.58%, ASML -7.82%","DRAM +1.96%, MU +1.26%, ASTS +1.18%, SNDK +1.12%, EOSE +0.62%","RKLB -0.38%, AAPL +0.13%, SPY +0.20%, TSLA +0.22%, JEPQ +0.32%"

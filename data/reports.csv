@@ -790,3 +790,21 @@ report_date,ticker,name,regular_close,regular_note,extended_price,extended_note,
 2026-06-23,DRAM,Roundhill Memory ETF,80.72,80.72 USD,80.41,80.41 USD,5.23,-0.38,2026-06-22 20:00 EDT,https://finance.yahoo.com/quote/DRAM/,2026-06-23-stock-brief.md
 2026-06-23,AMD,"Advanced Micro Devices, Inc.",551.63,551.63 USD,546.50,546.50 USD,2.65,-0.93,2026-06-22 19:59 EDT,https://finance.yahoo.com/quote/AMD/,2026-06-23-stock-brief.md
 2026-06-23,ASML,ASML Holding N.V. - New York Re,1929.25,"1,929.25 USD",1920.68,"1,920.68 USD",-0.02,-0.44,2026-06-22 19:59 EDT,https://finance.yahoo.com/quote/ASML/,2026-06-23-stock-brief.md
+2026-06-24,INTC,Intel Corporation,132.28,132.28 USD,132.81,132.81 USD,-6.14,0.40,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/INTC/,2026-06-24-stock-brief.md
+2026-06-24,AVGO,Broadcom Inc.,380.15,380.15 USD,381.50,381.50 USD,-3.06,0.36,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/AVGO/,2026-06-24-stock-brief.md
+2026-06-24,RKLB,Rocket Lab Corporation,95.12,95.12 USD,94.76,94.76 USD,-5.16,-0.38,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/RKLB/,2026-06-24-stock-brief.md
+2026-06-24,AAPL,Apple Inc.,294.30,294.30 USD,294.69,294.69 USD,-0.91,0.13,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/AAPL/,2026-06-24-stock-brief.md
+2026-06-24,NVDA,NVIDIA Corporation,200.04,200.04 USD,200.90,200.90 USD,-4.13,0.43,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/NVDA/,2026-06-24-stock-brief.md
+2026-06-24,TSLA,"Tesla, Inc.",381.61,381.61 USD,382.46,382.46 USD,-5.79,0.22,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/TSLA/,2026-06-24-stock-brief.md
+2026-06-24,SNDK,Sandisk Corporation,1963.60,"1,963.60 USD",1985.60,"1,985.60 USD",-13.64,1.12,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/SNDK/,2026-06-24-stock-brief.md
+2026-06-24,QQQ,"Invesco QQQ Trust, Series 1",713.65,713.65 USD,716.04,716.04 USD,-3.29,0.33,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/QQQ/,2026-06-24-stock-brief.md
+2026-06-24,SPY,State Street SPDR S&P 500 ETF T,733.58,733.58 USD,735.02,735.02 USD,-1.45,0.20,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/SPY/,2026-06-24-stock-brief.md
+2026-06-24,JEPQ,JPMorgan Nasdaq Equity Premium,59.86,59.86 USD,60.05,60.05 USD,-2.48,0.32,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/JEPQ/,2026-06-24-stock-brief.md
+2026-06-24,ASTS,"AST SpaceMobile, Inc.",72.87,72.87 USD,73.73,73.73 USD,-0.44,1.18,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/ASTS/,2026-06-24-stock-brief.md
+2026-06-24,MU,"Micron Technology, Inc.",1051.77,"1,051.77 USD",1065.00,"1,065.00 USD",-13.18,1.26,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/MU/,2026-06-24-stock-brief.md
+2026-06-24,IREN,IREN LIMITED,54.72,54.72 USD,54.90,54.90 USD,-3.78,0.33,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/IREN/,2026-06-24-stock-brief.md
+2026-06-24,EOSE,"Eos Energy Enterprises, Inc.",6.49,6.49 USD,6.53,6.53 USD,-11.58,0.62,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/EOSE/,2026-06-24-stock-brief.md
+2026-06-24,GOOG,Alphabet Inc.,346.08,346.08 USD,348.00,348.00 USD,-0.77,0.55,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/GOOG/,2026-06-24-stock-brief.md
+2026-06-24,DRAM,Roundhill Memory ETF,69.22,69.22 USD,70.58,70.58 USD,-14.25,1.96,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/DRAM/,2026-06-24-stock-brief.md
+2026-06-24,AMD,"Advanced Micro Devices, Inc.",519.85,519.85 USD,522.20,522.20 USD,-5.76,0.45,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/AMD/,2026-06-24-stock-brief.md
+2026-06-24,ASML,ASML Holding N.V. - New York Re,1778.46,"1,778.46 USD",1788.00,"1,788.00 USD",-7.82,0.54,2026-06-23 19:59 EDT,https://finance.yahoo.com/quote/ASML/,2026-06-24-stock-brief.md
