@@ -1,10 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-08-18,2026-08-18 09:57 +07,gemini,gemini-2.5-flash,สรุปภาวะตลาดหุ้น: รายงานวันที่ 18 ส.ค. 2026,ตลาดมีการเคลื่อนไหวทั้งบวกและลบ หุ้นรายตัวหลายตัวมีการเปลี่ยนแปลงที่น่าสนใจ โดยเฉพาะกลุ่มเทคโนโลยี,"- หุ้น SNDK, DRAM, MU ปรับขึ้นเด่นในเวลาทำการปกติ
-- SNDK แสดงความแข็งแกร่งต่อเนื่อง ปิดบวกทั้งในและนอกตลาด
-- AMD, TSLA, GOOG และ SPY ปรับตัวลดลงในเวลาทำการปกติ
-- EOSE ปรับตัวลงมากที่สุดทั้งช่วงปกติและหลังตลาด
-- การเคลื่อนไหวเฉลี่ยตลาดปกติอยู่ที่ +1.09% และหลังตลาดที่ +0.22%","- ความผันผวนสูงในหุ้นรายตัวที่เปลี่ยนแปลงรวดเร็ว
-- หุ้นบางตัวยังคงมีแรงขายหลังตลาด
-- ต้องจับตาทิศทางตลาดโดยรวมต่อไป","- ตรวจสอบปัจจัยหนุน/กดดันหุ้นที่มีการเปลี่ยนแปลงเด่น
-- วิเคราะห์การเคลื่อนไหวของหุ้นที่ปรับลดต่อเนื่อง
-- ติดตามข่าวสารและข้อมูลอัปเดตอย่างใกล้ชิด",1.09,0.22,"SNDK +8.88%, DRAM +5.36%, MU +4.13%, RKLB +2.28%, ASML +2.12%","EOSE -2.24%, AMD -1.63%, TSLA -0.87%, GOOG -0.61%, SPY -0.47%","SNDK +0.96%, IREN +0.95%, MU +0.53%, RKLB +0.50%, DRAM +0.46%","EOSE -0.25%, AAPL -0.14%, GOOG -0.02%, SPY -0.00%, ASTS +0.00%"
+2026-08-19,2026-08-19 10:00 +07,rule_based,fallback,2026-08-19: watchlist average regular move -3.92%; strongest regular mover AAPL +1.45%.,risk-off / mixed,"- Top regular movers: AAPL +1.45%, GOOG -0.05%, SPY -0.68%, TSLA -0.72%, JEPQ -1.04%.
+- Weakest regular movers: SNDK -9.01%, DRAM -8.76%, MU -7.02%, EOSE -6.62%, INTC -6.58%.
+- Top extended-hours movers: AAPL +0.06%, GOOG +0.01%, EOSE +0.00%, AVGO -0.02%, JEPQ -0.02%.
+- Average extended move is -0.61%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
+- Check news for SNDK before treating the move as purely technical.",-3.92,-0.61,"AAPL +1.45%, GOOG -0.05%, SPY -0.68%, TSLA -0.72%, JEPQ -1.04%","SNDK -9.01%, DRAM -8.76%, MU -7.02%, EOSE -6.62%, INTC -6.58%","AAPL +0.06%, GOOG +0.01%, EOSE +0.00%, AVGO -0.02%, JEPQ -0.02%","SNDK -2.45%, IREN -1.26%, DRAM -1.20%, ASTS -1.15%, AMD -1.03%"
