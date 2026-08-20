@@ -1,7 +1,8 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-08-19,2026-08-19 10:00 +07,rule_based,fallback,2026-08-19: watchlist average regular move -3.92%; strongest regular mover AAPL +1.45%.,risk-off / mixed,"- Top regular movers: AAPL +1.45%, GOOG -0.05%, SPY -0.68%, TSLA -0.72%, JEPQ -1.04%.
-- Weakest regular movers: SNDK -9.01%, DRAM -8.76%, MU -7.02%, EOSE -6.62%, INTC -6.58%.
-- Top extended-hours movers: AAPL +0.06%, GOOG +0.01%, EOSE +0.00%, AVGO -0.02%, JEPQ -0.02%.
-- Average extended move is -0.61%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
-- Check news for SNDK before treating the move as purely technical.",-3.92,-0.61,"AAPL +1.45%, GOOG -0.05%, SPY -0.68%, TSLA -0.72%, JEPQ -1.04%","SNDK -9.01%, DRAM -8.76%, MU -7.02%, EOSE -6.62%, INTC -6.58%","AAPL +0.06%, GOOG +0.01%, EOSE +0.00%, AVGO -0.02%, JEPQ -0.02%","SNDK -2.45%, IREN -1.26%, DRAM -1.20%, ASTS -1.15%, AMD -1.03%"
+2026-08-20,2026-08-20 09:59 +07,gemini,gemini-2.5-flash,สรุปข้อมูลเฝ้าระวังหุ้นประจำวันที่ 20 สิงหาคม 2569,ตลาดมีการเคลื่อนไหวแบบผสมผสาน โดยช่วงเวลาทำการปกติมีแนวโน้มลดลงเล็กน้อย แต่ฟื้นตัวในชั่วโมงซื้อขายนอกเวลาทำการ,"- หุ้น TSLA และ AAPL เป็นกลุ่มนำในตลาดปกติ
+- หุ้น AVGO, RKLB, INTC, AMD ปรับตัวลดลงมากที่สุดในช่วงเวลาทำการปกติ
+- หุ้น SNDK และ INTC แสดงการฟื้นตัวที่แข็งแกร่งในชั่วโมงซื้อขายนอกเวลาทำการ
+- หุ้น TSLA และ AAPL มีการปรับตัวลงเล็กน้อยในชั่วโมงซื้อขายนอกเวลาทำการ หลังปรับขึ้นในเวลาทำการปกติ","- ความผันผวนสูงในบางหลักทรัพย์ โดยมีการเปลี่ยนแปลงทิศทางระหว่างเวลาทำการปกติและนอกเวลาทำการ
+- กลุ่มหุ้นเทคโนโลยี/เซมิคอนดักเตอร์บางตัวเผชิญแรงขายในช่วงเวลาทำการปกติ","- ติดตามการเคลื่อนไหวของราคาหุ้นที่มีความผันผวนสูงอย่างใกล้ชิด
+- วิเคราะห์ปัจจัยที่ส่งผลต่อการเปลี่ยนแปลงของหุ้นที่ขึ้นและลงอย่างมีนัยสำคัญ
+- พิจารณาผลกระทบของการซื้อขายนอกเวลาทำการต่อแนวโน้มตลาดในวันถัดไป",-0.82,0.67,"TSLA +4.23%, AAPL +2.19%, IREN +2.00%, EOSE +1.91%, SPY +0.21%","AVGO -4.61%, RKLB -4.19%, INTC -4.02%, AMD -3.71%, SNDK -3.50%","SNDK +2.24%, DRAM +1.43%, IREN +1.42%, INTC +1.08%, MU +1.05%","TSLA -0.09%, GOOG +0.02%, AAPL +0.08%, SPY +0.12%, EOSE +0.24%"
