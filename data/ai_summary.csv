@@ -1,8 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-08-23,2026-08-23 10:05 +07,gemini,gemini-2.5-flash,สรุปภาพรวมการเคลื่อนไหวของหุ้นประจำวันที่ 23 ส.ค. 2026,ตลาดมีการเคลื่อนไหวแบบผสมผสาน มีทั้งหุ้นที่ปรับตัวขึ้นและลงอย่างมีนัยสำคัญในแต่ละช่วง,"- หุ้น EOSE, ASTS, และ TSLA นำการปรับขึ้นในรอบปกติ โดย EOSE โดดเด่นที่ +10.12%
-- หุ้น RKLB, NVDA, และ TSLA มีการปรับขึ้นในรอบการซื้อขายขยายเวลา
-- ค่าเฉลี่ยการเคลื่อนไหวในรอบปกติเป็นบวกที่ 1.04%","- หุ้น INTC, IREN, และ NVDA มีการปรับตัวลงแรงในรอบปกติ โดย INTC ลดลง -2.24%
-- หุ้น IREN และ MU แสดงความอ่อนแอต่อเนื่องในรอบขยายเวลา
-- ตลาดโดยรวมยังคงมีความผันผวนและมีการเปลี่ยนแปลงราคาที่ชัดเจน","- ติดตามหุ้นที่มีการเคลื่อนไหวผิดปกติเพื่อทำความเข้าใจสาเหตุ
-- วิเคราะห์ผลกระทบจากข่าวสารหรือปัจจัยเฉพาะของบริษัทต่อการเคลื่อนไหวราคา
-- พิจารณาสภาพการซื้อขายในรอบขยายเวลา ซึ่งอาจมีสภาพคล่องจำกัด",1.04,0.06,"EOSE +10.12%, ASTS +5.52%, TSLA +5.14%, AVGO +1.21%, GOOG +1.05%","INTC -2.24%, IREN -1.69%, NVDA -0.98%, MU -0.77%, AAPL -0.63%","RKLB +0.59%, NVDA +0.31%, TSLA +0.29%, EOSE +0.26%, SPY +0.17%","IREN -0.36%, MU -0.32%, INTC -0.23%, AMD -0.20%, SNDK -0.18%"
+2026-08-24,2026-08-24 10:06 +07,rule_based,fallback,2026-08-24: watchlist average regular move +1.04%; strongest regular mover EOSE +10.12%.,risk-on,"- Top regular movers: EOSE +10.12%, ASTS +5.52%, TSLA +5.14%, AVGO +1.21%, GOOG +1.05%.
+- Weakest regular movers: INTC -2.24%, IREN -1.69%, NVDA -0.98%, MU -0.77%, AAPL -0.63%.
+- Top extended-hours movers: RKLB +0.59%, NVDA +0.31%, TSLA +0.29%, EOSE +0.26%, SPY +0.17%.
+- Average extended move is +0.06%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether RKLB can hold gains at the next open.
+- Check news for INTC before treating the move as purely technical.",1.04,0.06,"EOSE +10.12%, ASTS +5.52%, TSLA +5.14%, AVGO +1.21%, GOOG +1.05%","INTC -2.24%, IREN -1.69%, NVDA -0.98%, MU -0.77%, AAPL -0.63%","RKLB +0.59%, NVDA +0.31%, TSLA +0.29%, EOSE +0.26%, SPY +0.17%","IREN -0.36%, MU -0.32%, INTC -0.23%, AMD -0.20%, SNDK -0.18%"
