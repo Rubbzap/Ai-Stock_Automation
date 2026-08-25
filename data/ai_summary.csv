@@ -1,7 +1,11 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-08-24,2026-08-24 10:06 +07,rule_based,fallback,2026-08-24: watchlist average regular move +1.04%; strongest regular mover EOSE +10.12%.,risk-on,"- Top regular movers: EOSE +10.12%, ASTS +5.52%, TSLA +5.14%, AVGO +1.21%, GOOG +1.05%.
-- Weakest regular movers: INTC -2.24%, IREN -1.69%, NVDA -0.98%, MU -0.77%, AAPL -0.63%.
-- Top extended-hours movers: RKLB +0.59%, NVDA +0.31%, TSLA +0.29%, EOSE +0.26%, SPY +0.17%.
-- Average extended move is +0.06%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether RKLB can hold gains at the next open.
-- Check news for INTC before treating the move as purely technical.",1.04,0.06,"EOSE +10.12%, ASTS +5.52%, TSLA +5.14%, AVGO +1.21%, GOOG +1.05%","INTC -2.24%, IREN -1.69%, NVDA -0.98%, MU -0.77%, AAPL -0.63%","RKLB +0.59%, NVDA +0.31%, TSLA +0.29%, EOSE +0.26%, SPY +0.17%","IREN -0.36%, MU -0.32%, INTC -0.23%, AMD -0.20%, SNDK -0.18%"
+2026-08-25,2026-08-25 10:01 +07,gemini,gemini-2.5-flash,สรุปภาพรวมตลาดหุ้นประจำวันที่ 25 สิงหาคม 2026,ตลาดแสดงทิศทางเชิงลบ โดยเฉพาะช่วงเวลาทำการปกติ แม้การเคลื่อนไหวนอกเวลาทำการจะผันผวนน้อยลง,"- ราคาหุ้นเฉลี่ยปรับลดลง -3.64% ในช่วงเวลาทำการปกติ
+- การเคลื่อนไหวนอกเวลาทำการเฉลี่ยติดลบเล็กน้อยที่ -0.23%
+- หุ้นที่โดดเด่นในเวลาทำการปกติ ได้แก่ GOOG (+0.83%) และ AAPL (+0.32%)
+- หุ้นที่ปรับตัวลงแรงในเวลาทำการปกติ เช่น EOSE (-9.19%) และ ASTS (-9.18%)
+- หุ้นที่ปรับตัวขึ้นนอกเวลาทำการ เช่น ASTS (+0.26%) และ NVDA (+0.15%)
+- หุ้นที่ปรับตัวลงนอกเวลาทำการ เช่น SNDK (-1.31%) และ DRAM (-1.01%)","- แนวโน้มตลาดโดยรวมยังคงเป็นลบ
+- ความเสี่ยงเฉพาะรายบริษัทสำหรับหุ้นที่ปรับตัวลงรุนแรง
+- ความผันผวนของราคาหุ้นในภาพรวม","- ติดตามข่าวสารและปัจจัยที่มีผลต่อตลาดอย่างใกล้ชิด
+- พิจารณาข้อมูลหุ้นที่เคลื่อนไหวผิดปกติ
+- ประเมินความเสี่ยงต่อพอร์ตการลงทุนอย่างต่อเนื่อง",-3.64,-0.23,"GOOG +0.83%, AAPL +0.32%, SPY -0.29%, JEPQ -0.70%, QQQ -1.00%","EOSE -9.19%, ASTS -9.18%, SNDK -6.45%, RKLB -5.91%, DRAM -5.89%","ASTS +0.26%, NVDA +0.15%, TSLA +0.11%, AAPL +0.10%, JEPQ +0.05%","SNDK -1.31%, DRAM -1.01%, MU -0.81%, IREN -0.65%, AMD -0.47%"
