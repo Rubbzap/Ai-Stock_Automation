@@ -1,7 +1,10 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-08-30,2026-08-30 15:04 +07,rule_based,fallback,2026-08-30: watchlist average regular move -2.32%; strongest regular mover AAPL +1.63%.,risk-off / mixed,"- Top regular movers: AAPL +1.63%, GOOG +1.53%, SNDK +0.00%, SPY -0.23%, JEPQ -0.27%.
-- Weakest regular movers: IREN -12.53%, ASTS -5.52%, EOSE -4.68%, RKLB -4.65%, NVDA -4.57%.
-- Top extended-hours movers: ASML +0.52%, IREN +0.43%, EOSE +0.31%, RKLB +0.26%, NVDA +0.16%.
-- Average extended move is +0.05%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether ASML can hold gains at the next open.
-- Check news for IREN before treating the move as purely technical.",-2.32,0.05,"AAPL +1.63%, GOOG +1.53%, SNDK +0.00%, SPY -0.23%, JEPQ -0.27%","IREN -12.53%, ASTS -5.52%, EOSE -4.68%, RKLB -4.65%, NVDA -4.57%","ASML +0.52%, IREN +0.43%, EOSE +0.31%, RKLB +0.26%, NVDA +0.16%","DRAM -0.34%, INTC -0.25%, MU -0.21%, TSLA -0.16%, GOOG -0.11%"
+2026-08-31,2026-08-31 15:22 +07,gemini,gemini-2.5-flash,สรุปภาพรวมหุ้นประจำวันที่ 31 ส.ค. 2569,ตลาดมีแนวโน้มอ่อนตัวลงในช่วงเวลาทำการปกติ (-2.32%) แต่มีการฟื้นตัวเล็กน้อยในชั่วโมงซื้อขายนอกเวลาทำการ (+0.31%),"- หุ้นเด่นช่วงเวลาทำการปกติ: AAPL (+1.63%) และ GOOG (+1.53%)
+- หุ้นปรับลงแรงช่วงเวลาทำการปกติ: IREN (-12.53%), ASTS (-5.52%) และ NVDA (-4.57%)
+- หุ้นเด่นช่วงชั่วโมงซื้อขายนอกเวลาทำการ: INTC (+1.76%), DRAM (+1.13%) และ ASML (+1.01%)
+- หุ้นใหญ่บางตัวอย่าง GOOG และ AAPL แข็งแกร่งในตลาดปกติ แต่ปรับตัวลงเล็กน้อยในช่วงนอกเวลาทำการ
+- SNDK ทรงตัวในตลาดปกติ แต่กลับปรับขึ้นในชั่วโมงนอกเวลาทำการ","- ตลาดโดยรวมอ่อนตัวลงในช่วงเวลาทำการปกติ สะท้อนความกังวลในตลาด
+- หุ้นบางตัวมีแรงเทขายอย่างหนัก เช่น IREN ที่ลดลงกว่า 12% ภายในวันเดียว
+- ความผันผวนและทิศทางที่สวนทางกันระหว่างช่วงเวลาทำการและนอกเวลาทำการ บ่งชี้ความไม่แน่นอน","- ติดตามการเคลื่อนไหวของตลาดในช่วงเวลาซื้อขายที่แตกต่างกันอย่างใกล้ชิด
+- ศึกษาปัจจัยเฉพาะของหุ้นที่มีการเปลี่ยนแปลงราคาอย่างมีนัยสำคัญ
+- ประเมินความเสี่ยงและทบทวนกลยุทธ์การลงทุนให้เหมาะสมกับสถานการณ์ตลาด",-2.32,0.31,"AAPL +1.63%, GOOG +1.53%, SNDK +0.00%, SPY -0.23%, JEPQ -0.27%","IREN -12.53%, ASTS -5.52%, EOSE -4.68%, RKLB -4.65%, NVDA -4.57%","INTC +1.76%, DRAM +1.13%, ASML +1.01%, SNDK +0.83%, AMD +0.73%","ASTS -0.69%, RKLB -0.67%, GOOG -0.50%, AAPL -0.15%, SPY -0.14%"
