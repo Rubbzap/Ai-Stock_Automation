@@ -1,7 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-09-03,2026-09-03 14:00 +07,rule_based,fallback,2026-09-03: watchlist average regular move +2.81%; strongest regular mover EOSE +18.75%.,risk-on,"- Top regular movers: EOSE +18.75%, ASTS +11.83%, IREN +7.55%, NVDA +3.21%, MU +2.43%.
-- Weakest regular movers: AVGO -0.66%, AMD -0.55%, AAPL -0.05%, QQQ +0.23%, JEPQ +0.25%.
-- Top extended-hours movers: RKLB +1.51%, NVDA +0.42%, GOOG +0.32%, EOSE +0.28%, INTC +0.24%.
-- Average extended move is +0.03%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether RKLB can hold gains at the next open.
-- Check news for AVGO before treating the move as purely technical.",2.81,0.03,"EOSE +18.75%, ASTS +11.83%, IREN +7.55%, NVDA +3.21%, MU +2.43%","AVGO -0.66%, AMD -0.55%, AAPL -0.05%, QQQ +0.23%, JEPQ +0.25%","RKLB +1.51%, NVDA +0.42%, GOOG +0.32%, EOSE +0.28%, INTC +0.24%","AVGO -0.82%, IREN -0.78%, SNDK -0.47%, ASML -0.27%, MU -0.13%"
+2026-09-04,2026-09-04 14:04 +07,rule_based,fallback,2026-09-04: watchlist average regular move +0.69%; strongest regular mover TSLA +5.42%.,risk-on,"- Top regular movers: TSLA +5.42%, IREN +5.18%, INTC +1.80%, NVDA +1.80%, GOOG +1.59%.
+- Weakest regular movers: EOSE -3.05%, AVGO -2.74%, ASML -2.15%, ASTS -0.43%, DRAM -0.39%.
+- Top extended-hours movers: NVDA +0.51%, EOSE +0.28%, GOOG +0.15%, ASTS +0.02%, ASML +0.01%.
+- Average extended move is -0.12%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether NVDA can hold gains at the next open.
+- Check news for EOSE before treating the move as purely technical.",0.69,-0.12,"TSLA +5.42%, IREN +5.18%, INTC +1.80%, NVDA +1.80%, GOOG +1.59%","EOSE -3.05%, AVGO -2.74%, ASML -2.15%, ASTS -0.43%, DRAM -0.39%","NVDA +0.51%, EOSE +0.28%, GOOG +0.15%, ASTS +0.02%, ASML +0.01%","IREN -0.77%, TSLA -0.46%, MU -0.45%, SNDK -0.36%, AMD -0.23%"
