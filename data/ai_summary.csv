@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-09-04,2026-09-04 14:04 +07,rule_based,fallback,2026-09-04: watchlist average regular move +0.69%; strongest regular mover TSLA +5.42%.,risk-on,"- Top regular movers: TSLA +5.42%, IREN +5.18%, INTC +1.80%, NVDA +1.80%, GOOG +1.59%.
-- Weakest regular movers: EOSE -3.05%, AVGO -2.74%, ASML -2.15%, ASTS -0.43%, DRAM -0.39%.
-- Top extended-hours movers: NVDA +0.51%, EOSE +0.28%, GOOG +0.15%, ASTS +0.02%, ASML +0.01%.
-- Average extended move is -0.12%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether NVDA can hold gains at the next open.
-- Check news for EOSE before treating the move as purely technical.",0.69,-0.12,"TSLA +5.42%, IREN +5.18%, INTC +1.80%, NVDA +1.80%, GOOG +1.59%","EOSE -3.05%, AVGO -2.74%, ASML -2.15%, ASTS -0.43%, DRAM -0.39%","NVDA +0.51%, EOSE +0.28%, GOOG +0.15%, ASTS +0.02%, ASML +0.01%","IREN -0.77%, TSLA -0.46%, MU -0.45%, SNDK -0.36%, AMD -0.23%"
+2026-09-05,2026-09-05 13:48 +07,gemini,gemini-2.5-flash,สรุปข้อมูลหุ้นเฝ้าระวังประจำวันที่ 5 ก.ย. 2026,ตลาดโดยรวมมีการเคลื่อนไหวบวกเล็กน้อยในเวลาทำการปกติ แต่ลดลงเล็กน้อยในช่วงนอกเวลาทำการ,"- ค่าเฉลี่ยการเคลื่อนไหวปกติเป็นบวกที่ 2.71%.
+- ค่าเฉลี่ยการเคลื่อนไหวช่วงนอกเวลาทำการเป็นลบที่ -0.12%.
+- หุ้นที่ปรับขึ้นโดดเด่นในเวลาทำการปกติได้แก่ SNDK (+11.9%) และ EOSE (+10.86%).
+- หุ้นที่ปรับลดลงมากที่สุดในเวลาทำการปกติได้แก่ TSLA (-5.92%) และ AAPL (-2.51%).
+- EOSE มีการปรับขึ้นต่อเนื่องในช่วงนอกเวลาทำการ (+1.03%) ในขณะที่หุ้นบางตัวที่ปรับขึ้นแรงในเวลาทำการ เช่น SNDK กลับปรับลงในช่วงนอกเวลาทำการ (-0.34%).","- การปรับตัวลงของหุ้นขนาดใหญ่อย่าง TSLA และ AAPL ในเวลาทำการปกติ.
+- แนวโน้มการเคลื่อนไหวเฉลี่ยติดลบในช่วงนอกเวลาทำการ.","- สังเกตการณ์หุ้นที่มีการเปลี่ยนแปลงราคาอย่างมีนัยสำคัญเพื่อทำความเข้าใจปัจจัย.
+- พิจารณาการเคลื่อนไหวของหุ้นรายตัวในช่วงนอกเวลาทำการเพื่อประเมินแรงส่ง.
+- ตรวจสอบข่าวสารและปัจจัยพื้นฐานที่เกี่ยวข้องกับหุ้นที่ผันผวน.",2.71,-0.12,"SNDK +11.90%, EOSE +10.86%, IREN +7.27%, DRAM +6.61%, MU +6.10%","TSLA -5.92%, AAPL -2.51%, GOOG -1.11%, SPY -0.39%, QQQ +0.18%","EOSE +1.03%, RKLB +0.20%, GOOG +0.12%, INTC +0.08%, AAPL +0.01%","IREN -0.51%, NVDA -0.37%, ASTS -0.37%, TSLA -0.34%, SNDK -0.34%"
