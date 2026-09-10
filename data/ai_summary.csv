@@ -1,9 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-09-09,2026-09-09 14:12 +07,gemini,gemini-2.5-flash,สรุปข้อมูลเฝ้าระวังหุ้นประจำวันที่ 9 กันยายน 2569,ตลาดมีการเคลื่อนไหวเชิงบวกเล็กน้อยในชั่วโมงซื้อขายปกติ แต่ทรงตัวค่อนข้างนิ่งในชั่วโมงซื้อขายเพิ่มเติม,"- ค่าเฉลี่ยการเคลื่อนไหวของหุ้นในชั่วโมงปกติเป็นบวกที่ 2.56%
-- หุ้น EOSE และ INTC เป็นหุ้นที่ปรับขึ้นสูงสุดในชั่วโมงซื้อขายปกติ
-- NVDA และ MU เป็นหุ้นที่ปรับตัวลงมากที่สุดในชั่วโมงซื้อขายปกติ
-- RKLB ปรับขึ้นสูงสุดในชั่วโมงซื้อขายเพิ่มเติม ในขณะที่ DRAM และ AVGO ปรับลงสูงสุด","- ความผันผวนของราคาหุ้นรายตัวอาจสูง โดยเฉพาะหุ้นที่มีการเคลื่อนไหวแตกต่างกันในแต่ละช่วงเวลา
-- การปรับตัวลงของหุ้นบางตัวในช่วงปกติ เช่น NVDA อาจส่งผลต่อความเชื่อมั่นของนักลงทุน
-- การเคลื่อนไหวเฉลี่ยในชั่วโมงซื้อขายเพิ่มเติมที่ติดลบเล็กน้อย ชี้ให้เห็นถึงความระมัดระวังของตลาดนอกเวลาทำการ","- นักลงทุนควรติดตามการเคลื่อนไหวของหุ้นที่ปรับตัวขึ้นและลงอย่างมีนัยสำคัญ
-- ควรพิจารณาข้อมูลการเคลื่อนไหวทั้งในชั่วโมงซื้อขายปกติและเพิ่มเติมเพื่อภาพรวมที่สมบูรณ์
-- ประเมินความเสี่ยงรายตัวของหุ้นที่แสดงความผันผวนสูง",2.56,-0.03,"EOSE +10.82%, INTC +9.05%, ASTS +6.11%, AMD +5.90%, IREN +5.04%","NVDA -2.01%, MU -1.61%, AAPL -1.17%, SPY -0.55%, SNDK -0.12%","RKLB +1.72%, SNDK +0.33%, EOSE +0.23%, ASTS +0.11%, MU +0.10%","DRAM -0.59%, AVGO -0.56%, IREN -0.53%, INTC -0.42%, TSLA -0.41%"
+2026-09-10,2026-09-10 14:08 +07,rule_based,fallback,2026-09-10: watchlist average regular move -0.79%; strongest regular mover AMD +3.04%.,risk-off / mixed,"- Top regular movers: AMD +3.04%, MU +2.75%, INTC +1.69%, SNDK +1.51%, DRAM +0.79%.
+- Weakest regular movers: ASTS -5.60%, RKLB -4.25%, EOSE -3.49%, IREN -3.32%, GOOG -2.09%.
+- Top extended-hours movers: AAPL +0.87%, RKLB +0.38%, ASML +0.18%, GOOG +0.13%, SPY +0.10%.
+- Average extended move is -0.01%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
+- Check news for ASTS before treating the move as purely technical.",-0.79,-0.01,"AMD +3.04%, MU +2.75%, INTC +1.69%, SNDK +1.51%, DRAM +0.79%","ASTS -5.60%, RKLB -4.25%, EOSE -3.49%, IREN -3.32%, GOOG -2.09%","AAPL +0.87%, RKLB +0.38%, ASML +0.18%, GOOG +0.13%, SPY +0.10%","INTC -0.62%, IREN -0.33%, DRAM -0.25%, ASTS -0.19%, TSLA -0.16%"
