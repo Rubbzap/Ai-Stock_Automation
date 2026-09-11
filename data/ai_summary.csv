@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-09-10,2026-09-10 14:08 +07,rule_based,fallback,2026-09-10: watchlist average regular move -0.79%; strongest regular mover AMD +3.04%.,risk-off / mixed,"- Top regular movers: AMD +3.04%, MU +2.75%, INTC +1.69%, SNDK +1.51%, DRAM +0.79%.
-- Weakest regular movers: ASTS -5.60%, RKLB -4.25%, EOSE -3.49%, IREN -3.32%, GOOG -2.09%.
-- Top extended-hours movers: AAPL +0.87%, RKLB +0.38%, ASML +0.18%, GOOG +0.13%, SPY +0.10%.
-- Average extended move is -0.01%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
-- Check news for ASTS before treating the move as purely technical.",-0.79,-0.01,"AMD +3.04%, MU +2.75%, INTC +1.69%, SNDK +1.51%, DRAM +0.79%","ASTS -5.60%, RKLB -4.25%, EOSE -3.49%, IREN -3.32%, GOOG -2.09%","AAPL +0.87%, RKLB +0.38%, ASML +0.18%, GOOG +0.13%, SPY +0.10%","INTC -0.62%, IREN -0.33%, DRAM -0.25%, ASTS -0.19%, TSLA -0.16%"
+2026-09-11,2026-09-11 14:07 +07,gemini,gemini-2.5-flash,สรุปภาพรวมตลาดวันที่ 11 ก.ย. 2026: หุ้นกลุ่มเทคฯ และชิปมีการเคลื่อนไหวเด่น,ตลาดโดยรวมมีแนวโน้มอ่อนตัวลงเล็กน้อย โดยเฉพาะในช่วงการซื้อขายปกติ (-2.30%) ขณะที่ช่วง Extended Hours มีการปรับตัวลงน้อยกว่า (-0.37%),"- AAPL (+3.56%) และ GOOG (+0.61%) ปรับขึ้นโดดเด่นในรอบปกติ
+- หุ้นกลุ่มเซมิคอนดักเตอร์และหน่วยความจำ เช่น INTC (-5.57%), MU (-4.9%), DRAM (-4.9%), SNDK (-4.06%) ปรับลงแรงในรอบปกติและยังคงมีแรงกดดันใน Extended Hours
+- ASTS ฟื้นตัวจากที่ลดลงในรอบปกติ (-4.02%) เป็นบวกเล็กน้อย (+0.2%) ใน Extended Hours
+- SPY และ JEPQ เคลื่อนไหวทรงตัวใน Extended Hours","- ความผันผวนสูงในหุ้นกลุ่มเทคโนโลยีและชิป โดยเฉพาะในหุ้นที่ปรับตัวลงแรง
+- แรงขายในกลุ่มหุ้นหลักอาจส่งผลต่อความเชื่อมั่นโดยรวม
+- ตลาดโดยรวมมีแนวโน้มเชิงลบจากค่าเฉลี่ยการเคลื่อนไหว","- เฝ้าระวังการเคลื่อนไหวของหุ้นกลุ่มเซมิคอนดักเตอร์และหน่วยความจำ
+- ศึกษาความแตกต่างระหว่างการซื้อขายรอบปกติและ Extended Hours
+- วิเคราะห์ปัจจัยพื้นฐานที่ส่งผลต่อการเปลี่ยนแปลงราคาหุ้นเด่น",-2.30,-0.37,"AAPL +3.56%, GOOG +0.61%, SPY -0.60%, JEPQ -0.80%, AVGO -0.97%","INTC -5.57%, MU -4.90%, DRAM -4.90%, SNDK -4.06%, ASTS -4.02%","ASTS +0.20%, TSLA -0.04%, SPY -0.04%, JEPQ -0.09%, RKLB -0.23%","INTC -1.14%, SNDK -0.93%, DRAM -0.79%, IREN -0.62%, MU -0.61%"
