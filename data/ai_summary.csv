@@ -1,8 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-09-14,2026-09-14 14:42 +07,gemini,gemini-2.5-flash,สรุปภาพรวมตลาดหุ้นเด่นประจำวันที่ 14 กันยายน 2569,ตลาดมีการปรับขึ้นเล็กน้อยในการซื้อขายปกติ แต่มีแรงขายทำกำไรช่วงหลังเวลาทำการ,"- หุ้นกลุ่มเทคโนโลยีนำการปรับขึ้นในตลาดปกติ เช่น INTC, AMD, AAPL
-- RKLB และ INTC มีการปรับขึ้นต่อเนื่องทั้งในและหลังเวลาทำการ
-- SNDK และ EOSE ปรับตัวลงมากที่สุดในการซื้อขายปกติและต่อเนื่องหลังเวลาทำการ
-- ค่าเฉลี่ยการเคลื่อนไหวของหุ้นในตลาดปกติอยู่ที่ 0.58%","- การเคลื่อนไหวหลังเวลาทำการบ่งชี้ถึงแรงขายทำกำไรหรือความระมัดระวัง
-- หุ้นที่ปรับตัวลงมากอาจเผชิญแรงกดดันต่อเนื่อง","- จับตาหุ้นกลุ่มเทคโนโลยีที่ยังคงมีโมเมนตัมที่ดี
-- พิจารณาผลกระทบของแรงขายทำกำไรหลังเวลาทำการต่อภาพรวม
-- ติดตามหุ้นที่มีการเคลื่อนไหวผันผวนสูงในแต่ละช่วงเวลา",0.58,-0.06,"INTC +2.61%, AMD +2.49%, AAPL +1.75%, RKLB +1.60%, GOOG +1.53%","SNDK -3.50%, EOSE -1.00%, MU -0.22%, ASTS -0.08%, NVDA -0.03%","RKLB +0.21%, ASML +0.16%, INTC +0.11%, AAPL +0.08%, SPY +0.02%","EOSE -0.76%, DRAM -0.22%, ASTS -0.21%, SNDK -0.14%, IREN -0.11%"
+2026-09-15,2026-09-15 14:27 +07,rule_based,fallback,2026-09-15: watchlist average regular move -2.70%; strongest regular mover GOOG +3.06%.,risk-off / mixed,"- Top regular movers: GOOG +3.06%, AAPL +0.24%, ASTS +0.23%, SPY -0.45%, RKLB -0.64%.
+- Weakest regular movers: DRAM -7.28%, ASML -7.25%, INTC -5.59%, MU -5.25%, SNDK -4.98%.
+- Top extended-hours movers: DRAM +1.55%, ASML +0.94%, MU +0.86%, SNDK +0.71%, NVDA +0.51%.
+- Average extended move is +0.30%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether DRAM can hold gains at the next open.
+- Check news for DRAM before treating the move as purely technical.",-2.70,0.30,"GOOG +3.06%, AAPL +0.24%, ASTS +0.23%, SPY -0.45%, RKLB -0.64%","DRAM -7.28%, ASML -7.25%, INTC -5.59%, MU -5.25%, SNDK -4.98%","DRAM +1.55%, ASML +0.94%, MU +0.86%, SNDK +0.71%, NVDA +0.51%","GOOG -0.45%, AAPL -0.26%, RKLB +0.00%, ASTS +0.00%, SPY +0.03%"
