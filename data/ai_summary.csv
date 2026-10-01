@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-09-30,2026-09-30 15:11 +07,rule_based,fallback,2026-09-30: watchlist average regular move -0.05%; strongest regular mover ASML +3.56%.,risk-off / mixed,"- Top regular movers: ASML +3.56%, DRAM +2.66%, AVGO +1.58%, EOSE +1.30%, MU +1.05%.
-- Weakest regular movers: RKLB -3.45%, AAPL -2.66%, ASTS -2.62%, TSLA -1.29%, IREN -0.81%.
-- Top extended-hours movers: EOSE +2.25%, IREN +0.89%, MU +0.66%, ASTS +0.64%, NVDA +0.57%.
-- Average extended move is +0.41%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether EOSE can hold gains at the next open.
-- Check news for RKLB before treating the move as purely technical.",-0.05,0.41,"ASML +3.56%, DRAM +2.66%, AVGO +1.58%, EOSE +1.30%, MU +1.05%","RKLB -3.45%, AAPL -2.66%, ASTS -2.62%, TSLA -1.29%, IREN -0.81%","EOSE +2.25%, IREN +0.89%, MU +0.66%, ASTS +0.64%, NVDA +0.57%","DRAM -0.65%, SNDK -0.08%, QQQ +0.18%, INTC +0.19%, AVGO +0.22%"
+2026-10-01,2026-10-01 15:34 +07,gemini,gemini-2.5-flash,สรุปการเคลื่อนไหวหุ้นเฝ้าระวังประจำวันที่ 1 ต.ค. 2569,ตลาดมีการเคลื่อนไหวบวกเล็กน้อยโดยเฉลี่ยในเวลาทำการปกติ และมีแนวโน้มบวกมากขึ้นในช่วงนอกเวลาทำการ แสดงให้เห็นถึงแรงซื้อที่ต่อเนื่องในบางกลุ่ม,"- หุ้นเด่นในเวลาทำการปกติ: INTC (+3.71%), AAPL (+1.1%), GOOG (+1.01%)
+- หุ้นเด่นนอกเวลาทำการ: RKLB (+2.68%), GOOG (+2.07%), ASTS (+1.27%)
+- หุ้น GOOG และ SNDK มีผลงานดีต่อเนื่องทั้งสองช่วงเวลา
+- หุ้น ASML และ AVGO มีการเคลื่อนไหวที่แตกต่างกันในแต่ละช่วง","- หุ้น DRAM (-1.52%), EOSE (-1.45%), ASML (-1.24%) ปรับตัวลดลงในเวลาทำการปกติ
+- หุ้น MU (-0.95%), ASML (-0.82%), JEPQ (-0.72%) ปรับตัวลดลงนอกเวลาทำการ
+- ความผันผวนสูงในกลุ่มเทคโนโลยีและเซมิคอนดักเตอร์","- ติดตามการเปลี่ยนแปลงราคาของหุ้นที่มีการเคลื่อนไหวโดดเด่น
+- วิเคราะห์ปัจจัยเฉพาะของหุ้นที่มีการปรับตัวขึ้นหรือลงอย่างมีนัยสำคัญ
+- พิจารณาผลกระทบจากการเคลื่อนไหวในช่วงนอกเวลาทำการต่อแนวโน้มในวันถัดไป",0.05,0.45,"INTC +3.71%, AAPL +1.10%, GOOG +1.01%, AMD +0.69%, SNDK +0.59%","DRAM -1.52%, EOSE -1.45%, ASML -1.24%, IREN -1.21%, AVGO -1.10%","RKLB +2.68%, GOOG +2.07%, ASTS +1.27%, AVGO +0.77%, SNDK +0.73%","MU -0.95%, ASML -0.82%, JEPQ -0.72%, AAPL -0.21%, SPY -0.07%"
