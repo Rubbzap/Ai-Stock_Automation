@@ -1,9 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-10-13,2026-10-13 16:07 +07,gemini,gemini-2.5-flash,สรุปการเคลื่อนไหวของหุ้นประจำวันที่ 13 ตุลาคม 2569,ตลาดโดยรวมมีแนวโน้มปรับตัวลดลงเล็กน้อยถึงปานกลางในวันดังกล่าว,"- ค่าเฉลี่ยการเคลื่อนไหวของหุ้นเป็นลบทั้งในเวลาทำการปกติ (-1.90%) และช่วงหลังตลาดปิด (-1.13%)
-- หุ้นเทคโนโลยีขนาดใหญ่บางตัว เช่น AAPL และ GOOG ยังคงแสดงผลงานเป็นบวก
-- มีหุ้นหลายตัว เช่น SNDK, EOSE, DRAM, MU ปรับตัวลดลงอย่างมีนัยสำคัญ
-- หุ้น ASTS มีการเปลี่ยนแปลงจากบวกในช่วงเวลาทำการปกติไปติดลบอย่างมากในช่วงหลังตลาดปิด","- แนวโน้มตลาดโดยรวมที่อ่อนตัวลงอาจบ่งชี้ถึงความระมัดระวังของนักลงทุน
-- การปรับตัวลงอย่างรุนแรงของหุ้นบางตัวอาจสะท้อนถึงความผันผวนเฉพาะราย
-- การเปลี่ยนแปลงทิศทางของราคาหุ้นอย่างรวดเร็ว เช่นในกรณีของ ASTS ชี้ให้เห็นถึงความไม่แน่นอน","- ติดตามการเคลื่อนไหวของตลาดและหุ้นรายตัวอย่างใกล้ชิด โดยเฉพาะหุ้นที่มีการเปลี่ยนแปลงราคาอย่างมีนัยสำคัญ
-- พิจารณาปัจจัยพื้นฐาน ข่าวสาร และเหตุการณ์ที่อาจส่งผลกระทบต่อหุ้นที่แสดงการปรับตัวลดลง
-- ประเมินผลกระทบจากแนวโน้มตลาดโดยรวมต่อพอร์ตการลงทุนอย่างสม่ำเสมอ",-1.90,-1.13,"AAPL +1.29%, ASTS +0.97%, GOOG +0.32%, SPY -0.06%, JEPQ -0.26%","SNDK -5.97%, EOSE -5.16%, DRAM -4.32%, MU -3.88%, RKLB -3.67%","AAPL +0.40%, INTC +0.29%, GOOG +0.15%, SPY +0.03%, JEPQ -0.16%","DRAM -3.76%, ASTS -3.69%, SNDK -3.07%, MU -2.43%, IREN -1.45%"
+2026-10-14,2026-10-14 14:17 +07,rule_based,fallback,2026-10-14: watchlist average regular move -1.04%; strongest regular mover AMD +1.90%.,risk-off / mixed,"- Top regular movers: AMD +1.90%, INTC +1.44%, NVDA +0.97%, AVGO +0.73%, GOOG +0.16%.
+- Weakest regular movers: ASTS -8.54%, MU -3.62%, DRAM -3.44%, EOSE -2.93%, RKLB -2.27%.
+- Top extended-hours movers: IREN +0.80%, INTC +0.42%, AMD +0.42%, EOSE +0.41%, MU +0.32%.
+- Average extended move is +0.07%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether IREN can hold gains at the next open.
+- Check news for ASTS before treating the move as purely technical.",-1.04,0.07,"AMD +1.90%, INTC +1.44%, NVDA +0.97%, AVGO +0.73%, GOOG +0.16%","ASTS -8.54%, MU -3.62%, DRAM -3.44%, EOSE -2.93%, RKLB -2.27%","IREN +0.80%, INTC +0.42%, AMD +0.42%, EOSE +0.41%, MU +0.32%","ASML -0.74%, DRAM -0.34%, AAPL -0.27%, TSLA -0.09%, QQQ -0.09%"
