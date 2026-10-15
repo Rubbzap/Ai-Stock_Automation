@@ -1,7 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-10-14,2026-10-14 14:17 +07,rule_based,fallback,2026-10-14: watchlist average regular move -1.04%; strongest regular mover AMD +1.90%.,risk-off / mixed,"- Top regular movers: AMD +1.90%, INTC +1.44%, NVDA +0.97%, AVGO +0.73%, GOOG +0.16%.
-- Weakest regular movers: ASTS -8.54%, MU -3.62%, DRAM -3.44%, EOSE -2.93%, RKLB -2.27%.
-- Top extended-hours movers: IREN +0.80%, INTC +0.42%, AMD +0.42%, EOSE +0.41%, MU +0.32%.
-- Average extended move is +0.07%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether IREN can hold gains at the next open.
-- Check news for ASTS before treating the move as purely technical.",-1.04,0.07,"AMD +1.90%, INTC +1.44%, NVDA +0.97%, AVGO +0.73%, GOOG +0.16%","ASTS -8.54%, MU -3.62%, DRAM -3.44%, EOSE -2.93%, RKLB -2.27%","IREN +0.80%, INTC +0.42%, AMD +0.42%, EOSE +0.41%, MU +0.32%","ASML -0.74%, DRAM -0.34%, AAPL -0.27%, TSLA -0.09%, QQQ -0.09%"
+2026-10-15,2026-10-15 14:09 +07,rule_based,fallback,2026-10-15: watchlist average regular move -4.96%; strongest regular mover AAPL +0.50%.,risk-off / mixed,"- Top regular movers: AAPL +0.50%, SPY -1.08%, JEPQ -1.36%, GOOG -1.68%, QQQ -1.97%.
+- Weakest regular movers: EOSE -15.95%, IREN -12.18%, ASTS -10.46%, RKLB -7.85%, AMD -5.73%.
+- Top extended-hours movers: AAPL +0.53%, SPY -0.32%, JEPQ -0.47%, ASML -0.88%, TSLA -0.89%.
+- Average extended move is -2.06%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
+- Check news for EOSE before treating the move as purely technical.",-4.96,-2.06,"AAPL +0.50%, SPY -1.08%, JEPQ -1.36%, GOOG -1.68%, QQQ -1.97%","EOSE -15.95%, IREN -12.18%, ASTS -10.46%, RKLB -7.85%, AMD -5.73%","AAPL +0.53%, SPY -0.32%, JEPQ -0.47%, ASML -0.88%, TSLA -0.89%","RKLB -9.94%, DRAM -3.67%, SNDK -3.37%, AMD -2.77%, MU -2.74%"
