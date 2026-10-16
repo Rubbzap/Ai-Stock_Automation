@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-10-15,2026-10-15 14:09 +07,rule_based,fallback,2026-10-15: watchlist average regular move -4.96%; strongest regular mover AAPL +0.50%.,risk-off / mixed,"- Top regular movers: AAPL +0.50%, SPY -1.08%, JEPQ -1.36%, GOOG -1.68%, QQQ -1.97%.
-- Weakest regular movers: EOSE -15.95%, IREN -12.18%, ASTS -10.46%, RKLB -7.85%, AMD -5.73%.
-- Top extended-hours movers: AAPL +0.53%, SPY -0.32%, JEPQ -0.47%, ASML -0.88%, TSLA -0.89%.
-- Average extended move is -2.06%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
-- Check news for EOSE before treating the move as purely technical.",-4.96,-2.06,"AAPL +0.50%, SPY -1.08%, JEPQ -1.36%, GOOG -1.68%, QQQ -1.97%","EOSE -15.95%, IREN -12.18%, ASTS -10.46%, RKLB -7.85%, AMD -5.73%","AAPL +0.53%, SPY -0.32%, JEPQ -0.47%, ASML -0.88%, TSLA -0.89%","RKLB -9.94%, DRAM -3.67%, SNDK -3.37%, AMD -2.77%, MU -2.74%"
+2026-10-16,2026-10-16 13:52 +07,gemini,gemini-2.5-flash,สรุปข้อมูลตลาดหุ้นประจำวันที่ 16 ต.ค. 2026,ตลาดโดยรวมเคลื่อนไหวผสมผสาน โดยช่วงเวลาทำการปกติปรับขึ้นเล็กน้อย ขณะที่ช่วงเวลาซื้อขายนอกเวลาทำการปรับลดลง,"- หุ้น EOSE (+10.77%) และ ASTS (+5.51%) ปรับขึ้นโดดเด่นในช่วงเวลาทำการปกติ
+- หุ้น RKLB (-6.64%) และ INTC (-2.8%) ปรับลดลงมากที่สุดในช่วงเวลาทำการปกติ
+- หุ้น SNDK (-1.76%), AMD (-1.55%) และ ASTS (-1.31%) ปรับลดลงมากที่สุดในช่วงนอกเวลาทำการ
+- หุ้น EOSE ไม่เปลี่ยนแปลงในช่วงนอกเวลาทำการ (0.00%)","- ตลาดโดยรวมมีแนวโน้มปรับลดลงในช่วงนอกเวลาทำการ
+- หุ้นบางตัวแสดงความผันผวนสูง โดยมีการเปลี่ยนแปลงราคาที่สำคัญทั้งขาขึ้นและขาลงในแต่ละช่วงเวลา
+- หุ้นที่ปรับลดลงอย่างมีนัยสำคัญในช่วงนอกเวลาทำการ อาจบ่งชี้ถึงแรงขายต่อเนื่อง","- ติดตามหุ้นที่มีการเปลี่ยนแปลงราคาอย่างมีนัยสำคัญในช่วงเวลาต่างๆ
+- วิเคราะห์ปัจจัยที่ส่งผลต่อการเคลื่อนไหวของราคาหุ้นในแต่ละช่วง
+- เฝ้าระวังหุ้นที่แสดงความผันผวนสูงหรือมีการปรับตัวลงต่อเนื่อง",0.08,-0.67,"EOSE +10.77%, ASTS +5.51%, MU +1.87%, ASML +0.45%, GOOG +0.37%","RKLB -6.64%, INTC -2.80%, NVDA -1.84%, DRAM -1.62%, AMD -1.50%","EOSE -0.00%, TSLA -0.05%, SPY -0.19%, RKLB -0.24%, NVDA -0.24%","SNDK -1.76%, AMD -1.55%, ASTS -1.31%, DRAM -1.30%, MU -0.88%"
