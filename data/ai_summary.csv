@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-10-18,2026-10-18 14:04 +07,rule_based,fallback,2026-10-18: watchlist average regular move -5.01%; strongest regular mover AAPL +0.43%.,risk-off / mixed,"- Top regular movers: AAPL +0.43%, ASML -0.96%, SPY -1.11%, NVDA -1.43%, TSLA -2.13%.
-- Weakest regular movers: EOSE -15.74%, IREN -11.19%, ASTS -8.55%, RKLB -7.98%, SNDK -6.85%.
-- Top extended-hours movers: EOSE +0.54%, AVGO +0.47%, RKLB +0.22%, ASTS -0.03%, ASML -0.07%.
-- Average extended move is -0.18%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether EOSE can hold gains at the next open.
-- Check news for EOSE before treating the move as purely technical.",-5.01,-0.18,"AAPL +0.43%, ASML -0.96%, SPY -1.11%, NVDA -1.43%, TSLA -2.13%","EOSE -15.74%, IREN -11.19%, ASTS -8.55%, RKLB -7.98%, SNDK -6.85%","EOSE +0.54%, AVGO +0.47%, RKLB +0.22%, ASTS -0.03%, ASML -0.07%","TSLA -0.64%, INTC -0.58%, SNDK -0.53%, DRAM -0.39%, GOOG -0.36%"
+2026-10-19,2026-10-19 14:29 +07,gemini,gemini-2.5-flash,ภาพรวมหุ้นเฝ้าระวัง: 19 ต.ค. 2026 ตลาดโดยรวมอ่อนตัวลงอย่างชัดเจน,ตลาดแสดงทิศทางเชิงลบ โดยราคาหุ้นเฉลี่ยปรับลดลง 5.01% ในช่วงเวลาทำการปกติ และลดลงเล็กน้อย 0.18% ในช่วงนอกเวลาทำการ,"- หุ้นหลายตัวมีการปรับฐานลงแรงในช่วงเวลาทำการปกติ เช่น EOSE (-15.74%) และ IREN (-11.19%)
+- หุ้นบางตัวมีการฟื้นตัวเล็กน้อยในช่วงนอกเวลาทำการ เช่น EOSE (+0.54%) และ AVGO (+0.47%)
+- หุ้นใหญ่อย่าง AAPL ปรับขึ้นเล็กน้อย (+0.43%) ในขณะที่ TSLA, NVDA ยังคงติดลบ
+- หุ้นกลุ่มเทคโนโลยีหลายตัวยังคงอยู่ในทิศทางขาลง","- ความผันผวนของตลาดที่ยังคงสูง โดยเฉพาะหุ้นที่มีการปรับตัวลงแรง
+- แนวโน้มขาลงที่อาจส่งผลกระทบต่อเนื่องต่อหุ้นหลายตัว
+- ผลกระทบจากปัจจัยภายนอกที่อาจเร่งการปรับฐานของตลาด","- เฝ้าระวังการเคลื่อนไหวของราคาหุ้นกลุ่มที่ปรับตัวลงอย่างมีนัยสำคัญ
+- ติดตามสัญญาณการฟื้นตัวของหุ้นที่แสดงความแข็งแกร่งในช่วงนอกเวลาทำการ
+- ประเมินสถานการณ์ตลาดและปัจจัยที่เกี่ยวข้องอย่างรอบคอบ",-5.01,-0.18,"AAPL +0.43%, ASML -0.96%, SPY -1.11%, NVDA -1.43%, TSLA -2.13%","EOSE -15.74%, IREN -11.19%, ASTS -8.55%, RKLB -7.98%, SNDK -6.85%","EOSE +0.54%, AVGO +0.47%, RKLB +0.22%, ASTS -0.03%, ASML -0.07%","TSLA -0.64%, INTC -0.58%, SNDK -0.53%, DRAM -0.39%, GOOG -0.36%"
