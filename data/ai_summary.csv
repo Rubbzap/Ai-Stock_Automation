@@ -1,9 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-10-29,2026-10-29 15:13 +07,gemini,gemini-2.5-flash,สรุปภาพรวมหุ้นเฝ้าระวังประจำวันที่ 29 ต.ค. 2026: ตลาดผันผวนหลังปิดทำการ,ตลาดแสดงความผันผวนสูง โดยเฉพาะอย่างยิ่งในช่วงขยายเวลาทำการ หุ้นหลายตัวมีแรงซื้อระหว่างวันแต่ถูกเทขายอย่างรวดเร็วหลังตลาดปิด,"- หุ้นกลุ่ม SNDK, DRAM, MU, IREN มีการปรับขึ้นโดดเด่นในเวลาทำการปกติ แต่กลับร่วงลงอย่างมีนัยสำคัญในช่วงขยายเวลา
-- GOOG เผชิญกับการปรับฐานรุนแรงกว่า 10% ในช่วงขยายเวลาการซื้อขาย
-- โดยเฉลี่ย ราคาหุ้นมีการปรับขึ้น 2.45% ในเวลาทำการปกติ แต่กลับปรับลง 2.76% ในช่วงขยายเวลา
-- หุ้นขนาดใหญ่ เช่น NVDA, AAPL, TSLA มีการเคลื่อนไหวที่ค่อนข้างจำกัดในช่วงเวลาทำการปกติ","- ความผันผวนที่แตกต่างกันอย่างมากระหว่างช่วงเวลาทำการปกติและช่วงขยายเวลา อาจส่งผลกระทบต่อการวางแผนการลงทุน
-- การเทขายทำกำไรอย่างรุนแรงในช่วงขยายเวลาอาจเป็นสัญญาณของข่าวสารเชิงลบหรือการเปลี่ยนแปลงมุมมองของตลาด
-- ความไม่แน่นอนของปัจจัยที่ขับเคลื่อนการเคลื่อนไหวราคานอกเวลาทำการ","- ติดตามข่าวสารและประกาศที่อาจส่งผลต่อราคาหุ้นในช่วงนอกเวลาทำการอย่างใกล้ชิด
-- สังเกตพฤติกรรมการซื้อขายของหุ้นที่มีความผันผวนสูง เพื่อประเมินทิศทางในระยะถัดไป
-- พิจารณาความแตกต่างของการเคลื่อนไหวราคาในช่วงเวลาทำการปกติและช่วงขยายเวลาเพื่อประกอบการตัดสินใจ",2.45,-2.76,"SNDK +7.66%, EOSE +7.14%, DRAM +7.13%, MU +5.86%, IREN +5.10%","NVDA -1.17%, AAPL -0.94%, TSLA -0.80%, SPY +0.34%, RKLB +0.50%","AAPL +0.95%, SPY -0.43%, NVDA -0.84%, TSLA -0.87%, JEPQ -0.93%","GOOG -10.11%, IREN -4.82%, DRAM -4.12%, MU -3.84%, SNDK -3.76%"
+2026-10-30,2026-10-30 15:19 +07,rule_based,fallback,2026-10-30: watchlist average regular move -2.28%; strongest regular mover ASTS +1.82%.,risk-off / mixed,"- Top regular movers: ASTS +1.82%, EOSE +1.54%, AAPL +1.48%, RKLB +0.85%, ASML +0.77%.
+- Weakest regular movers: GOOG -12.29%, IREN -8.98%, SNDK -5.32%, MU -4.98%, DRAM -4.38%.
+- Top extended-hours movers: AAPL +0.18%, GOOG -0.88%, SPY -1.00%, JEPQ -1.70%, QQQ -2.22%.
+- Average extended move is -4.65%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AAPL can hold gains at the next open.
+- Check news for GOOG before treating the move as purely technical.",-2.28,-4.65,"ASTS +1.82%, EOSE +1.54%, AAPL +1.48%, RKLB +0.85%, ASML +0.77%","GOOG -12.29%, IREN -8.98%, SNDK -5.32%, MU -4.98%, DRAM -4.38%","AAPL +0.18%, GOOG -0.88%, SPY -1.00%, JEPQ -1.70%, QQQ -2.22%","INTC -25.00%, AMD -7.03%, IREN -5.71%, RKLB -5.61%, ASTS -4.88%"
