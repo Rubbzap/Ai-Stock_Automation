@@ -1,9 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-11-03,2026-11-03 16:12 +07,gemini,gemini-2.5-flash,สรุปข้อมูลหุ้นเฝ้าระวังประจำวันที่ 3 พฤศจิกายน 2026,ตลาดโดยรวมมีแรงกดดันในช่วงปกติโดยมีการปรับตัวลดลงเฉลี่ย 4.08% ขณะที่ช่วงขยายมีการฟื้นตัวเล็กน้อยเฉลี่ย 0.96%,"- การเคลื่อนไหวเฉลี่ยของตลาดในช่วงปกติลดลง 4.08% และช่วงขยายเพิ่มขึ้น 0.96%
-- หุ้น ASTS, INTC, AMD ปรับลดลงมากสุดในช่วงปกติ แต่มีการฟื้นตัวที่ดีในช่วงขยาย
-- AAPL ปรับตัวลงแรงสุดในช่วงตลาดขยายที่ -2.91%
-- TSLA ปรับขึ้นเล็กน้อยในช่วงปกติ (+1.0%) แต่กลับมาติดลบเล็กน้อยในช่วงขยาย","- ความผันผวนของราคาหุ้นที่มีการเคลื่อนไหวสวนทางระหว่างช่วงปกติและช่วงขยาย
-- แรงขายในตลาดช่วงปกติยังคงเป็นปัจจัยที่ต้องเฝ้าระวัง
-- ความเสี่ยงจากหุ้นรายตัวที่ปรับตัวลงแรงอย่างกะทันหันในช่วงใดช่วงหนึ่ง","- พิจารณาการติดตามความเคลื่อนไหวของราคาหุ้นทั้งในและนอกเวลาทำการ
-- ประเมินผลกระทบของความผันผวนต่อพอร์ตการลงทุน
-- ศึกษาปัจจัยที่ส่งผลต่อการเคลื่อนไหวของหุ้นที่มีการเปลี่ยนแปลงอย่างมีนัยสำคัญ",-4.08,0.96,"TSLA +1.00%, GOOG -0.06%, SPY -0.48%, AVGO -1.18%, NVDA -1.26%","ASTS -11.33%, INTC -8.80%, IREN -8.06%, AMD -7.52%, EOSE -6.88%","SNDK +2.60%, INTC +2.38%, AMD +2.29%, ASTS +2.20%, DRAM +1.71%","AAPL -2.91%, SPY -0.19%, TSLA -0.05%, GOOG +0.12%, JEPQ +0.15%"
+2026-11-04,2026-11-04 15:47 +07,rule_based,fallback,2026-11-04: watchlist average regular move +2.56%; strongest regular mover IREN +11.08%.,risk-on,"- Top regular movers: IREN +11.08%, EOSE +7.95%, SNDK +4.78%, RKLB +4.53%, AMD +3.65%.
+- Weakest regular movers: AAPL -1.90%, TSLA -1.32%, GOOG +0.08%, SPY +0.30%, QQQ +0.62%.
+- Top extended-hours movers: AMD +5.02%, ASTS +0.05%, DRAM -0.19%, NVDA -0.26%, SPY -0.29%.
+- Average extended move is -0.33%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AMD can hold gains at the next open.
+- Check news for AAPL before treating the move as purely technical.",2.56,-0.33,"IREN +11.08%, EOSE +7.95%, SNDK +4.78%, RKLB +4.53%, AMD +3.65%","AAPL -1.90%, TSLA -1.32%, GOOG +0.08%, SPY +0.30%, QQQ +0.62%","AMD +5.02%, ASTS +0.05%, DRAM -0.19%, NVDA -0.26%, SPY -0.29%","TSLA -1.72%, IREN -1.39%, EOSE -1.05%, INTC -0.89%, RKLB -0.79%"
