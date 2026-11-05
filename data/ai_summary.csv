@@ -1,7 +1,8 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-11-04,2026-11-04 15:47 +07,rule_based,fallback,2026-11-04: watchlist average regular move +2.56%; strongest regular mover IREN +11.08%.,risk-on,"- Top regular movers: IREN +11.08%, EOSE +7.95%, SNDK +4.78%, RKLB +4.53%, AMD +3.65%.
-- Weakest regular movers: AAPL -1.90%, TSLA -1.32%, GOOG +0.08%, SPY +0.30%, QQQ +0.62%.
-- Top extended-hours movers: AMD +5.02%, ASTS +0.05%, DRAM -0.19%, NVDA -0.26%, SPY -0.29%.
-- Average extended move is -0.33%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether AMD can hold gains at the next open.
-- Check news for AAPL before treating the move as purely technical.",2.56,-0.33,"IREN +11.08%, EOSE +7.95%, SNDK +4.78%, RKLB +4.53%, AMD +3.65%","AAPL -1.90%, TSLA -1.32%, GOOG +0.08%, SPY +0.30%, QQQ +0.62%","AMD +5.02%, ASTS +0.05%, DRAM -0.19%, NVDA -0.26%, SPY -0.29%","TSLA -1.72%, IREN -1.39%, EOSE -1.05%, INTC -0.89%, RKLB -0.79%"
+2026-11-05,2026-11-05 16:10 +07,gemini,gemini-2.5-flash,สรุปภาพรวมตลาดหุ้น วันที่ 5 พ.ย. 2569,ตลาดโดยรวมมีแนวโน้มเชิงลบเล็กน้อยจากค่าเฉลี่ยการเคลื่อนไหวของราคาหุ้นที่ลดลงทั้งในและนอกเวลาทำการ,"- EOSE มีการปรับตัวขึ้นโดดเด่นสูงสุดทั้งในเวลาทำการปกติ (+12.63%) และนอกเวลาทำการ (+5.14%)
+- หุ้นที่ปรับตัวขึ้นในเวลาทำการปกติ ได้แก่ AAPL (+5.31%) และ GOOG (+3.25%)
+- หุ้นที่ปรับตัวลงแรงในเวลาทำการปกติ ได้แก่ IREN (-11.24%), SNDK (-7.91%), MU (-7.0%)
+- DRAM และ SNDK มีการปรับตัวลงอย่างต่อเนื่องทั้งในและนอกเวลาทำการ","- ค่าเฉลี่ยการเคลื่อนไหวของราคาหุ้นติดลบ บ่งชี้ถึงแนวโน้มตลาดที่ไม่เอื้ออำนวย
+- ความผันผวนสูงในหุ้นบางตัวที่ปรับตัวขึ้นลงแรง","- เฝ้าระวังหุ้นที่มีการเปลี่ยนแปลงราคาอย่างมีนัยสำคัญ
+- ศึกษาปัจจัยเฉพาะตัวของหุ้นที่เคลื่อนไหวรุนแรง
+- ติดตามข้อมูลข่าวสารและปัจจัยทางเศรษฐกิจอย่างใกล้ชิด",-1.64,-1.56,"EOSE +12.63%, AAPL +5.31%, GOOG +3.25%, SPY +1.65%, AMD +1.01%","IREN -11.24%, SNDK -7.91%, MU -7.00%, DRAM -5.31%, ASTS -4.12%","EOSE +5.14%, GOOG +0.61%, AAPL +0.38%, SPY -0.11%, JEPQ -0.68%","DRAM -4.61%, SNDK -3.74%, AMD -3.53%, MU -3.14%, INTC -2.95%"
