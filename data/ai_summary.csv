@@ -1,12 +1,7 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-11-09,2026-11-09 16:24 +07,gemini,gemini-2.5-flash,สรุปภาพรวมหุ้นเฝ้าระวังประจำวันที่ 9 พฤศจิกายน 2569,ตลาดมีความผันผวน หุ้นหลายตัวแสดงการเคลื่อนไหวที่แตกต่างกันระหว่างช่วงเวลาซื้อขายปกติและช่วงขยายเวลา,"- ภาพรวมการเคลื่อนไหวเฉลี่ยในรอบปกติเป็นบวกที่ 4.69%
-- การเคลื่อนไหวเฉลี่ยในรอบขยายเวลาเป็นลบเล็กน้อยที่ -0.68%
-- IREN และ RKLB ปรับขึ้นโดดเด่นในรอบปกติ (20.02% และ 15.39%)
-- AMD แสดงการเติบโตที่ดีทั้งรอบปกติและรอบขยายเวลา
-- NVDA ปรับลงอย่างมีนัยสำคัญในรอบขยายเวลา (-5.26%)
-- หุ้นบางตัว เช่น EOSE และ INTC มีการเคลื่อนไหวสวนทางกันระหว่างสองช่วงเวลา","- ความผันผวนของราคาหุ้นบางตัวที่สูงมาก เช่น IREN ที่ขึ้นแรงแล้วลงแรง
-- การปรับฐานในรอบขยายเวลาของหุ้นขนาดใหญ่ (เช่น NVDA) อาจบ่งชี้ถึงแรงขายทำกำไร
-- ความแตกต่างของการเคลื่อนไหวในแต่ละช่วงเวลา อาจเพิ่มความไม่แน่นอนในระยะสั้น","- ติดตามหุ้นที่มีความผันผวนสูงเป็นพิเศษ
-- พิจารณาปัจจัยและข่าวสารที่เกี่ยวข้องกับการเคลื่อนไหวของราคา
-- ตรวจสอบปริมาณการซื้อขายในรอบขยายเวลาเพื่อประเมินแนวโน้ม
-- วิเคราะห์ผลกระทบจากหุ้นขนาดใหญ่ที่ปรับตัวลงในรอบขยายเวลา",4.69,-0.68,"IREN +20.02%, RKLB +15.39%, AMD +11.04%, INTC +7.71%, ASTS +7.05%","EOSE -7.45%, AAPL -0.52%, SPY +0.31%, AVGO +0.74%, GOOG +0.78%","ASML +2.18%, EOSE +1.72%, AMD +1.10%, AVGO +1.06%, AAPL +0.76%","NVDA -5.26%, IREN -3.97%, SNDK -2.62%, RKLB -2.00%, INTC -1.72%"
+2026-11-10,2026-11-10 16:27 +07,rule_based,fallback,2026-11-10: watchlist average regular move +5.45%; strongest regular mover ASTS +14.10%.,risk-on,"- Top regular movers: ASTS +14.10%, AMD +13.26%, RKLB +10.91%, AVGO +8.78%, EOSE +8.05%.
+- Weakest regular movers: NVDA -4.27%, IREN -1.06%, GOOG +0.73%, SPY +2.37%, AAPL +2.43%.
+- Top extended-hours movers: NVDA +1.77%, SNDK +0.80%, GOOG +0.71%, MU +0.66%, ASML +0.49%.
+- Average extended move is -0.23%.","- Extended-hours prices can be thin and may reverse during the next regular session.
+- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether NVDA can hold gains at the next open.
+- Check news for NVDA before treating the move as purely technical.",5.45,-0.23,"ASTS +14.10%, AMD +13.26%, RKLB +10.91%, AVGO +8.78%, EOSE +8.05%","NVDA -4.27%, IREN -1.06%, GOOG +0.73%, SPY +2.37%, AAPL +2.43%","NVDA +1.77%, SNDK +0.80%, GOOG +0.71%, MU +0.66%, ASML +0.49%","RKLB -5.54%, INTC -0.99%, ASTS -0.54%, TSLA -0.53%, DRAM -0.35%"
