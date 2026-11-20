@@ -1,7 +1,9 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-11-19,2026-11-19 17:00 +07,rule_based,fallback,2026-11-19: watchlist average regular move -0.57%; strongest regular mover AMD +5.31%.,risk-off / mixed,"- Top regular movers: AMD +5.31%, AVGO +3.64%, TSLA +0.95%, ASML +0.88%, GOOG +0.58%.
-- Weakest regular movers: ASTS -7.61%, RKLB -3.60%, IREN -3.57%, NVDA -2.89%, SNDK -2.64%.
-- Top extended-hours movers: IREN +4.79%, ASTS +4.43%, DRAM +4.04%, EOSE +3.99%, MU +3.95%.
-- Average extended move is +2.95%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether IREN can hold gains at the next open.
-- Check news for ASTS before treating the move as purely technical.",-0.57,2.95,"AMD +5.31%, AVGO +3.64%, TSLA +0.95%, ASML +0.88%, GOOG +0.58%","ASTS -7.61%, RKLB -3.60%, IREN -3.57%, NVDA -2.89%, SNDK -2.64%","IREN +4.79%, ASTS +4.43%, DRAM +4.04%, EOSE +3.99%, MU +3.95%","AAPL +0.42%, SPY +1.07%, TSLA +1.46%, JEPQ +1.65%, NVDA +1.70%"
+2026-11-20,2026-11-20 16:49 +07,gemini,gemini-2.5-flash,รายงานหุ้นเฝ้าระวัง: 20 พ.ย. 2569 – ตลาดโดยรวมมีแนวโน้มปรับตัวลง,ตลาดมีทิศทางเป็นลบชัดเจน โดยค่าเฉลี่ยการเคลื่อนไหวลดลงทั้งในช่วงเวลาทำการปกติและนอกเวลาทำการ,"- หุ้น EOSE, AMD, IREN, RKLB, NVDA ปรับลดลงมากในช่วงเวลาทำการปกติ
+- หุ้น AMD และ RKLB มีการปรับลดลงต่อเนื่องทั้งในช่วงเวลาทำการปกติและนอกเวลาทำการ
+- หุ้น INTC และ ASTS ที่บวกในช่วงเวลาทำการปกติ กลับปรับลดลงแรงในช่วงนอกเวลาทำการ
+- AAPL มีการเคลื่อนไหวบวกเล็กน้อยในช่วงนอกเวลาทำการ","- ตลาดโดยรวมแสดงสัญญาณเชิงลบจากค่าเฉลี่ยการเคลื่อนไหวที่ติดลบ
+- หุ้นหลายตัวมีความผันผวนสูง โดยเฉพาะการเคลื่อนไหวที่แตกต่างกันระหว่างช่วงเวลาทำการปกติและนอกเวลาทำการ
+- มีแรงขายในหุ้นกลุ่มเทคโนโลยีบางตัวอย่างต่อเนื่อง","- นักลงทุนควรเฝ้าระวังและติดตามสถานการณ์ตลาดอย่างใกล้ชิด
+- พิจารณาความเสี่ยงและวิเคราะห์ข้อมูลเชิงลึกก่อนตัดสินใจลงทุน
+- ระมัดระวังเป็นพิเศษสำหรับหุ้นที่มีการเคลื่อนไหวแตกต่างกันมากในช่วงเวลาต่างๆ",-2.79,-2.87,"INTC +1.92%, ASTS +0.24%, AAPL -0.92%, DRAM -1.84%, JEPQ -1.92%","EOSE -8.11%, AMD -7.72%, IREN -5.45%, RKLB -3.92%, NVDA -3.30%","AAPL +0.31%, GOOG -0.21%, SPY -0.64%, JEPQ -1.31%, EOSE -1.47%","SNDK -6.55%, AMD -5.11%, INTC -4.70%, ASTS -4.62%, RKLB -4.10%"
