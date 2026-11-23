@@ -1,7 +1,10 @@
 report_date,generated_at,provider,model,headline,market_tone,key_points,risks,actions,avg_regular_move_pct,avg_extended_move_pct,top_regular,bottom_regular,top_extended,bottom_extended
-2026-11-22,2026-11-22 16:30 +07,rule_based,fallback,2026-11-22: watchlist average regular move -8.93%; strongest regular mover AAPL -1.90%.,risk-off / mixed,"- Top regular movers: AAPL -1.90%, GOOG -2.59%, SNDK -2.71%, SPY -3.64%, JEPQ -5.20%.
-- Weakest regular movers: IREN -17.97%, NVDA -14.01%, MU -13.89%, AMD -13.25%, DRAM -13.19%.
-- Top extended-hours movers: IREN +4.40%, RKLB +4.35%, NVDA +3.57%, ASTS +3.57%, AMD +3.53%.
-- Average extended move is +1.60%.","- Extended-hours prices can be thin and may reverse during the next regular session.
-- Some symbols may have stale or missing extended-hours data depending on source coverage.","- Watch whether IREN can hold gains at the next open.
-- Check news for IREN before treating the move as purely technical.",-8.93,1.60,"AAPL -1.90%, GOOG -2.59%, SNDK -2.71%, SPY -3.64%, JEPQ -5.20%","IREN -17.97%, NVDA -14.01%, MU -13.89%, AMD -13.25%, DRAM -13.19%","IREN +4.40%, RKLB +4.35%, NVDA +3.57%, ASTS +3.57%, AMD +3.53%","SNDK -13.76%, AAPL +0.67%, SPY +1.11%, JEPQ +1.20%, TSLA +1.52%"
+2026-11-23,2026-11-23 17:28 +07,gemini,gemini-2.5-flash,ภาพรวมตลาด 23 พ.ย. 2569: ตลาดปิดลบแรงช่วงปกติ แต่มีแรงฟื้นตัวในชั่วโมงซื้อขายนอกเวลา,ตลาดมีแนวโน้มเชิงลบในช่วงเวลาทำการปกติ แต่มีการดีดตัวในชั่วโมงซื้อขายนอกเวลา บ่งชี้ความผันผวนสูง,"- ค่าเฉลี่ยการเคลื่อนไหวของตลาดในช่วงเวลาทำการปกติลดลงอย่างมีนัยสำคัญที่ -8.93%
+- ค่าเฉลี่ยการเคลื่อนไหวในช่วงชั่วโมงซื้อขายนอกเวลาเป็นบวกที่ 5.27%
+- หุ้นกลุ่มเทคโนโลยี/เซมิคอนดักเตอร์ (NVDA, MU, AMD, DRAM) มีการปรับตัวลงแรงในช่วงเวลาปกติ แต่บางตัว เช่น DRAM และ IREN กลับดีดตัวขึ้นแรงในชั่วโมงนอกเวลา
+- หุ้นขนาดใหญ่ (AAPL, GOOG) และ ETF (SPY, JEPQ) มีการปรับตัวลงน้อยกว่าหุ้นบางกลุ่มในช่วงเวลาปกติ
+- SNDK เป็นหนึ่งในหุ้นที่ลดลงน้อยที่สุดในช่วงปกติ แต่กลับเป็นหนึ่งในตัวที่ลดลงมากที่สุดในช่วงนอกเวลา","- ความผันผวนสูงระหว่างช่วงเวลาทำการปกติและชั่วโมงซื้อขายนอกเวลา
+- แรงกดดันขาลงที่อาจเกิดขึ้นต่อเนื่องในตลาดช่วงปกติ โดยเฉพาะในหุ้นกลุ่มเทคโนโลยีบางตัว
+- ผลกระทบจากข่าวสารหรือเหตุการณ์ที่เกิดขึ้นนอกเวลาทำการอาจส่งผลต่อการเคลื่อนไหวในวันถัดไป","- ติดตามการเคลื่อนไหวของหุ้นที่มีความผันผวนสูง เช่น IREN, DRAM, SNDK เพื่อประเมินแนวโน้ม
+- พิจารณาความแตกต่างของการเคลื่อนไหวระหว่างหุ้นขนาดใหญ่กับหุ้นรายตัวที่เคลื่อนไหวรุนแรง
+- ให้ความสำคัญกับการวิเคราะห์ปัจจัยที่ขับเคลื่อนตลาดในช่วงชั่วโมงซื้อขายนอกเวลา",-8.93,5.27,"AAPL -1.90%, GOOG -2.59%, SNDK -2.71%, SPY -3.64%, JEPQ -5.20%","IREN -17.97%, NVDA -14.01%, MU -13.89%, AMD -13.25%, DRAM -13.19%","ASTS +9.67%, DRAM +9.32%, RKLB +9.20%, IREN +8.63%, EOSE +8.40%","SNDK -9.93%, AAPL +1.45%, SPY +2.77%, JEPQ +3.21%, QQQ +3.70%"
